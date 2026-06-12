@@ -1,0 +1,5672 @@
+[
+  {
+    "id": "nicobar-andaman-nicobar-islands",
+    "name": "Nicobar",
+    "state": "Andaman & Nicobar Islands",
+    "latitude": 11.7401,
+    "longitude": 92.6586,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "north-and-middle-andaman-andaman-nicobar-islands",
+    "name": "North And Middle Andaman",
+    "state": "Andaman & Nicobar Islands",
+    "latitude": 12.6982,
+    "longitude": 92.8577,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "south-andaman-andaman-nicobar-islands",
+    "name": "South Andaman",
+    "state": "Andaman & Nicobar Islands",
+    "latitude": 11.8312,
+    "longitude": 92.6586,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "adilabad-andhra-pradesh",
+    "name": "Adilabad",
+    "state": "Andhra Pradesh",
+    "latitude": 19.6667,
+    "longitude": 78.5333,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "ananthapur-andhra-pradesh",
+    "name": "Ananthapur",
+    "state": "Andhra Pradesh",
+    "latitude": 19.502,
+    "longitude": 78.4269,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "chittoor-andhra-pradesh",
+    "name": "Chittoor",
+    "state": "Andhra Pradesh",
+    "latitude": 13.2172,
+    "longitude": 79.1003,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "cuddapah-andhra-pradesh",
+    "name": "Cuddapah",
+    "state": "Andhra Pradesh",
+    "latitude": 14.4674,
+    "longitude": 78.8241,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "east-godavari-andhra-pradesh",
+    "name": "East Godavari",
+    "state": "Andhra Pradesh",
+    "latitude": 17.3212,
+    "longitude": 82.0407,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "guntur-andhra-pradesh",
+    "name": "Guntur",
+    "state": "Andhra Pradesh",
+    "latitude": 16.3067,
+    "longitude": 80.4365,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "hyderabad-andhra-pradesh",
+    "name": "Hyderabad",
+    "state": "Andhra Pradesh",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "k-v-rangareddy-andhra-pradesh",
+    "name": "K.V.Rangareddy",
+    "state": "Andhra Pradesh",
+    "latitude": 17.3891,
+    "longitude": 77.8367,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "karim-nagar-andhra-pradesh",
+    "name": "Karim Nagar",
+    "state": "Andhra Pradesh",
+    "latitude": 18.4386,
+    "longitude": 79.1288,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "khammam-andhra-pradesh",
+    "name": "Khammam",
+    "state": "Andhra Pradesh",
+    "latitude": 17.2473,
+    "longitude": 80.1514,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "krishna-andhra-pradesh",
+    "name": "Krishna",
+    "state": "Andhra Pradesh",
+    "latitude": 16.1667,
+    "longitude": 81.1333,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "kurnool-andhra-pradesh",
+    "name": "Kurnool",
+    "state": "Andhra Pradesh",
+    "latitude": 15.8281,
+    "longitude": 78.0373,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "mahabub-nagar-andhra-pradesh",
+    "name": "Mahabub Nagar",
+    "state": "Andhra Pradesh",
+    "latitude": 16.7333,
+    "longitude": 77.9833,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "medak-andhra-pradesh",
+    "name": "Medak",
+    "state": "Andhra Pradesh",
+    "latitude": 18.0529,
+    "longitude": 78.2619,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "nalgonda-andhra-pradesh",
+    "name": "Nalgonda",
+    "state": "Andhra Pradesh",
+    "latitude": 17.05,
+    "longitude": 79.2667,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "nellore-andhra-pradesh",
+    "name": "Nellore",
+    "state": "Andhra Pradesh",
+    "latitude": 14.4426,
+    "longitude": 79.9865,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "nizamabad-andhra-pradesh",
+    "name": "Nizamabad",
+    "state": "Andhra Pradesh",
+    "latitude": 18.6725,
+    "longitude": 78.0941,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "prakasam-andhra-pradesh",
+    "name": "Prakasam",
+    "state": "Andhra Pradesh",
+    "latitude": 15.3485,
+    "longitude": 79.5603,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "srikakulam-andhra-pradesh",
+    "name": "Srikakulam",
+    "state": "Andhra Pradesh",
+    "latitude": 18.297,
+    "longitude": 83.8968,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "visakhapatnam-andhra-pradesh",
+    "name": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "latitude": 17.6868,
+    "longitude": 83.2185,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "vizianagaram-andhra-pradesh",
+    "name": "Vizianagaram",
+    "state": "Andhra Pradesh",
+    "latitude": 18.1067,
+    "longitude": 83.3956,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "warangal-andhra-pradesh",
+    "name": "Warangal",
+    "state": "Andhra Pradesh",
+    "latitude": 18.0001,
+    "longitude": 79.5882,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "west-godavari-andhra-pradesh",
+    "name": "West Godavari",
+    "state": "Andhra Pradesh",
+    "latitude": 16.9174,
+    "longitude": 81.3399,
+    "language_code": "te",
+    "language_name": "Telugu"
+  },
+  {
+    "id": "changlang-arunachal-pradesh",
+    "name": "Changlang",
+    "state": "Arunachal Pradesh",
+    "latitude": 27.1306,
+    "longitude": 95.7342,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dibang-valley-arunachal-pradesh",
+    "name": "Dibang Valley",
+    "state": "Arunachal Pradesh",
+    "latitude": 28.8129,
+    "longitude": 96.1527,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "east-kameng-arunachal-pradesh",
+    "name": "East Kameng",
+    "state": "Arunachal Pradesh",
+    "latitude": 27.4231,
+    "longitude": 93.0176,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "east-siang-arunachal-pradesh",
+    "name": "East Siang",
+    "state": "Arunachal Pradesh",
+    "latitude": 28.1097,
+    "longitude": 95.1432,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kurung-kumey-arunachal-pradesh",
+    "name": "Kurung Kumey",
+    "state": "Arunachal Pradesh",
+    "latitude": 29.9695,
+    "longitude": 76.8783,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "lohit-arunachal-pradesh",
+    "name": "Lohit",
+    "state": "Arunachal Pradesh",
+    "latitude": 27.904,
+    "longitude": 96.1739,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "lower-dibang-valley-arunachal-pradesh",
+    "name": "Lower Dibang Valley",
+    "state": "Arunachal Pradesh",
+    "latitude": 28.1221,
+    "longitude": 94.3664,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "lower-subansiri-arunachal-pradesh",
+    "name": "Lower Subansiri",
+    "state": "Arunachal Pradesh",
+    "latitude": 27.6139,
+    "longitude": 93.8452,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "papum-pare-arunachal-pradesh",
+    "name": "Papum Pare",
+    "state": "Arunachal Pradesh",
+    "latitude": 27.1719,
+    "longitude": 93.7029,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "tawang-arunachal-pradesh",
+    "name": "Tawang",
+    "state": "Arunachal Pradesh",
+    "latitude": 27.5781,
+    "longitude": 91.8757,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "tirap-arunachal-pradesh",
+    "name": "Tirap",
+    "state": "Arunachal Pradesh",
+    "latitude": 26.9943,
+    "longitude": 95.5407,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "upper-siang-arunachal-pradesh",
+    "name": "Upper Siang",
+    "state": "Arunachal Pradesh",
+    "latitude": 28.7589,
+    "longitude": 95.2267,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "upper-subansiri-arunachal-pradesh",
+    "name": "Upper Subansiri",
+    "state": "Arunachal Pradesh",
+    "latitude": 27.7868,
+    "longitude": 94.336,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "west-kameng-arunachal-pradesh",
+    "name": "West Kameng",
+    "state": "Arunachal Pradesh",
+    "latitude": 27.3428,
+    "longitude": 92.3024,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "west-siang-arunachal-pradesh",
+    "name": "West Siang",
+    "state": "Arunachal Pradesh",
+    "latitude": 28.1473,
+    "longitude": 94.7485,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "barpeta-assam",
+    "name": "Barpeta",
+    "state": "Assam",
+    "latitude": 26.3167,
+    "longitude": 91.0,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "bongaigaon-assam",
+    "name": "Bongaigaon",
+    "state": "Assam",
+    "latitude": 26.4667,
+    "longitude": 90.5667,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "cachar-assam",
+    "name": "Cachar",
+    "state": "Assam",
+    "latitude": 24.7821,
+    "longitude": 92.8577,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "darrang-assam",
+    "name": "Darrang",
+    "state": "Assam",
+    "latitude": 26.4523,
+    "longitude": 92.0273,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "dhemaji-assam",
+    "name": "Dhemaji",
+    "state": "Assam",
+    "latitude": 27.4811,
+    "longitude": 94.5573,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "dhubri-assam",
+    "name": "Dhubri",
+    "state": "Assam",
+    "latitude": 26.0333,
+    "longitude": 89.9667,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "dibrugarh-assam",
+    "name": "Dibrugarh",
+    "state": "Assam",
+    "latitude": 27.4728,
+    "longitude": 94.912,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "goalpara-assam",
+    "name": "Goalpara",
+    "state": "Assam",
+    "latitude": 26.1667,
+    "longitude": 90.6167,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "golaghat-assam",
+    "name": "Golaghat",
+    "state": "Assam",
+    "latitude": 26.509,
+    "longitude": 93.9695,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "hailakandi-assam",
+    "name": "Hailakandi",
+    "state": "Assam",
+    "latitude": 24.6833,
+    "longitude": 92.5667,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "jorhat-assam",
+    "name": "Jorhat",
+    "state": "Assam",
+    "latitude": 26.756,
+    "longitude": 94.2094,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "kamrup-assam",
+    "name": "Kamrup",
+    "state": "Assam",
+    "latitude": 26.3161,
+    "longitude": 91.5984,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "karbi-anglong-assam",
+    "name": "Karbi Anglong",
+    "state": "Assam",
+    "latitude": 26.1861,
+    "longitude": 93.5813,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "karimganj-assam",
+    "name": "Karimganj",
+    "state": "Assam",
+    "latitude": 24.8667,
+    "longitude": 92.35,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "kokrajhar-assam",
+    "name": "Kokrajhar",
+    "state": "Assam",
+    "latitude": 26.4014,
+    "longitude": 90.2667,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "lakhimpur-assam",
+    "name": "Lakhimpur",
+    "state": "Assam",
+    "latitude": 27.2064,
+    "longitude": 94.1514,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "marigaon-assam",
+    "name": "Marigaon",
+    "state": "Assam",
+    "latitude": 26.2529,
+    "longitude": 92.337,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "nagaon-assam",
+    "name": "Nagaon",
+    "state": "Assam",
+    "latitude": 26.351,
+    "longitude": 92.692,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "nalbari-assam",
+    "name": "Nalbari",
+    "state": "Assam",
+    "latitude": 26.4446,
+    "longitude": 91.4411,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "north-cachar-hills-assam",
+    "name": "North Cachar Hills",
+    "state": "Assam",
+    "latitude": 25.3478,
+    "longitude": 93.0176,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "sibsagar-assam",
+    "name": "Sibsagar",
+    "state": "Assam",
+    "latitude": 26.9833,
+    "longitude": 94.6333,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "sonitpur-assam",
+    "name": "Sonitpur",
+    "state": "Assam",
+    "latitude": 26.6739,
+    "longitude": 92.8577,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "tinsukia-assam",
+    "name": "Tinsukia",
+    "state": "Assam",
+    "latitude": 27.5,
+    "longitude": 95.3667,
+    "language_code": "as",
+    "language_name": "Assamese"
+  },
+  {
+    "id": "araria-bihar",
+    "name": "Araria",
+    "state": "Bihar",
+    "latitude": 26.1333,
+    "longitude": 87.4667,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "arwal-bihar",
+    "name": "Arwal",
+    "state": "Bihar",
+    "latitude": 25.244,
+    "longitude": 84.6662,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "aurangabad-bh-bihar",
+    "name": "Aurangabad(BH)",
+    "state": "Bihar",
+    "latitude": 25.1833,
+    "longitude": 85.5167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "banka-bihar",
+    "name": "Banka",
+    "state": "Bihar",
+    "latitude": 24.8833,
+    "longitude": 86.9167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "begusarai-bihar",
+    "name": "Begusarai",
+    "state": "Bihar",
+    "latitude": 25.4167,
+    "longitude": 86.1333,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bhagalpur-bihar",
+    "name": "Bhagalpur",
+    "state": "Bihar",
+    "latitude": 25.25,
+    "longitude": 87.0333,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bhojpur-bihar",
+    "name": "Bhojpur",
+    "state": "Bihar",
+    "latitude": 25.4662,
+    "longitude": 84.5222,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "buxar-bihar",
+    "name": "Buxar",
+    "state": "Bihar",
+    "latitude": 25.5647,
+    "longitude": 83.9777,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "darbhanga-bihar",
+    "name": "Darbhanga",
+    "state": "Bihar",
+    "latitude": 26.1667,
+    "longitude": 85.9,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "east-champaran-bihar",
+    "name": "East Champaran",
+    "state": "Bihar",
+    "latitude": 26.6098,
+    "longitude": 84.8568,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "gaya-bihar",
+    "name": "Gaya",
+    "state": "Bihar",
+    "latitude": 24.7955,
+    "longitude": 84.9994,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "gopalganj-bihar",
+    "name": "Gopalganj",
+    "state": "Bihar",
+    "latitude": 26.4678,
+    "longitude": 84.4432,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jamui-bihar",
+    "name": "Jamui",
+    "state": "Bihar",
+    "latitude": 24.9167,
+    "longitude": 86.2167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jehanabad-bihar",
+    "name": "Jehanabad",
+    "state": "Bihar",
+    "latitude": 25.2167,
+    "longitude": 84.9833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kaimur-bhabua-bihar",
+    "name": "Kaimur (Bhabua)",
+    "state": "Bihar",
+    "latitude": 25.05,
+    "longitude": 83.6167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "katihar-bihar",
+    "name": "Katihar",
+    "state": "Bihar",
+    "latitude": 25.5339,
+    "longitude": 87.556,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "khagaria-bihar",
+    "name": "Khagaria",
+    "state": "Bihar",
+    "latitude": 25.5112,
+    "longitude": 86.4769,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kishanganj-bihar",
+    "name": "Kishanganj",
+    "state": "Bihar",
+    "latitude": 26.3078,
+    "longitude": 87.7763,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "lakhisarai-bihar",
+    "name": "Lakhisarai",
+    "state": "Bihar",
+    "latitude": 25.1674,
+    "longitude": 86.0988,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "madhepura-bihar",
+    "name": "Madhepura",
+    "state": "Bihar",
+    "latitude": 25.9169,
+    "longitude": 86.7786,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "madhubani-bihar",
+    "name": "Madhubani",
+    "state": "Bihar",
+    "latitude": 26.3469,
+    "longitude": 86.0715,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "munger-bihar",
+    "name": "Munger",
+    "state": "Bihar",
+    "latitude": 25.3833,
+    "longitude": 86.4667,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "muzaffarpur-bihar",
+    "name": "Muzaffarpur",
+    "state": "Bihar",
+    "latitude": 26.1209,
+    "longitude": 85.3647,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "nalanda-bihar",
+    "name": "Nalanda",
+    "state": "Bihar",
+    "latitude": 25.1833,
+    "longitude": 85.5167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "nawada-bihar",
+    "name": "Nawada",
+    "state": "Bihar",
+    "latitude": 24.8833,
+    "longitude": 85.5333,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "patna-bihar",
+    "name": "Patna",
+    "state": "Bihar",
+    "latitude": 25.6125,
+    "longitude": 85.1283,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "purnia-bihar",
+    "name": "Purnia",
+    "state": "Bihar",
+    "latitude": 25.78,
+    "longitude": 87.47,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "rohtas-bihar",
+    "name": "Rohtas",
+    "state": "Bihar",
+    "latitude": 24.6287,
+    "longitude": 83.9202,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "saharsa-bihar",
+    "name": "Saharsa",
+    "state": "Bihar",
+    "latitude": 25.8833,
+    "longitude": 86.6,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "samastipur-bihar",
+    "name": "Samastipur",
+    "state": "Bihar",
+    "latitude": 25.863,
+    "longitude": 85.781,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "saran-bihar",
+    "name": "Saran",
+    "state": "Bihar",
+    "latitude": 46.9927,
+    "longitude": 22.6138,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sheikhpura-bihar",
+    "name": "Sheikhpura",
+    "state": "Bihar",
+    "latitude": 25.1417,
+    "longitude": 85.8629,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sheohar-bihar",
+    "name": "Sheohar",
+    "state": "Bihar",
+    "latitude": 26.5167,
+    "longitude": 85.3,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sitamarhi-bihar",
+    "name": "Sitamarhi",
+    "state": "Bihar",
+    "latitude": 26.6,
+    "longitude": 85.4833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "siwan-bihar",
+    "name": "Siwan",
+    "state": "Bihar",
+    "latitude": 26.2239,
+    "longitude": 84.3611,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "supaul-bihar",
+    "name": "Supaul",
+    "state": "Bihar",
+    "latitude": 26.1083,
+    "longitude": 86.6011,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "vaishali-bihar",
+    "name": "Vaishali",
+    "state": "Bihar",
+    "latitude": 26.0038,
+    "longitude": 85.0818,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "west-champaran-bihar",
+    "name": "West Champaran",
+    "state": "Bihar",
+    "latitude": 27.259,
+    "longitude": 84.0181,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "chandigarh-chandigarh",
+    "name": "Chandigarh",
+    "state": "Chandigarh",
+    "latitude": 30.74,
+    "longitude": 76.7567,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "bastar-chattisgarh",
+    "name": "Bastar",
+    "state": "Chattisgarh",
+    "latitude": 19.1071,
+    "longitude": 81.9535,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bijapur-cgh-chattisgarh",
+    "name": "Bijapur(CGH)",
+    "state": "Chattisgarh",
+    "latitude": 16.83,
+    "longitude": 75.7,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bilaspur-cgh-chattisgarh",
+    "name": "Bilaspur(CGH)",
+    "state": "Chattisgarh",
+    "latitude": 22.076,
+    "longitude": 82.156,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dantewada-chattisgarh",
+    "name": "Dantewada",
+    "state": "Chattisgarh",
+    "latitude": 18.9,
+    "longitude": 81.35,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dhamtari-chattisgarh",
+    "name": "Dhamtari",
+    "state": "Chattisgarh",
+    "latitude": 20.7072,
+    "longitude": 81.5497,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "durg-chattisgarh",
+    "name": "Durg",
+    "state": "Chattisgarh",
+    "latitude": 21.1833,
+    "longitude": 81.2833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "gariaband-chattisgarh",
+    "name": "Gariaband",
+    "state": "Chattisgarh",
+    "latitude": 20.6339,
+    "longitude": 82.0598,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "janjgir-champa-chattisgarh",
+    "name": "Janjgir-champa",
+    "state": "Chattisgarh",
+    "latitude": 21.9706,
+    "longitude": 82.4753,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jashpur-chattisgarh",
+    "name": "Jashpur",
+    "state": "Chattisgarh",
+    "latitude": 22.8874,
+    "longitude": 84.1382,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kanker-chattisgarh",
+    "name": "Kanker",
+    "state": "Chattisgarh",
+    "latitude": 20.2719,
+    "longitude": 81.4931,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kawardha-chattisgarh",
+    "name": "Kawardha",
+    "state": "Chattisgarh",
+    "latitude": 22.009,
+    "longitude": 81.2243,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "korba-chattisgarh",
+    "name": "Korba",
+    "state": "Chattisgarh",
+    "latitude": 22.35,
+    "longitude": 82.6833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "koriya-chattisgarh",
+    "name": "Koriya",
+    "state": "Chattisgarh",
+    "latitude": 23.3875,
+    "longitude": 82.3886,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mahasamund-chattisgarh",
+    "name": "Mahasamund",
+    "state": "Chattisgarh",
+    "latitude": 21.1091,
+    "longitude": 82.0979,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "narayanpur-chattisgarh",
+    "name": "Narayanpur",
+    "state": "Chattisgarh",
+    "latitude": 19.7235,
+    "longitude": 81.2424,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "raigarh-chattisgarh",
+    "name": "Raigarh",
+    "state": "Chattisgarh",
+    "latitude": 21.9,
+    "longitude": 83.4,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "raipur-chattisgarh",
+    "name": "Raipur",
+    "state": "Chattisgarh",
+    "latitude": 21.2514,
+    "longitude": 81.6296,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "rajnandgaon-chattisgarh",
+    "name": "Rajnandgaon",
+    "state": "Chattisgarh",
+    "latitude": 21.0971,
+    "longitude": 81.0302,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "surguja-chattisgarh",
+    "name": "Surguja",
+    "state": "Chattisgarh",
+    "latitude": 22.9494,
+    "longitude": 83.1649,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dadra-nagar-haveli-dadra-nagar-haveli",
+    "name": "Dadra & Nagar Haveli",
+    "state": "Dadra & Nagar Haveli",
+    "latitude": 20.1809,
+    "longitude": 73.0169,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "daman-daman-diu",
+    "name": "Daman",
+    "state": "Daman & Diu",
+    "latitude": 20.4219,
+    "longitude": 72.8737,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "diu-daman-diu",
+    "name": "Diu",
+    "state": "Daman & Diu",
+    "latitude": 20.4283,
+    "longitude": 72.8397,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "central-delhi-delhi",
+    "name": "Central Delhi",
+    "state": "Delhi",
+    "latitude": 28.64,
+    "longitude": 77.2118,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "east-delhi-delhi",
+    "name": "East Delhi",
+    "state": "Delhi",
+    "latitude": 28.6196,
+    "longitude": 77.298,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "new-delhi-delhi",
+    "name": "New Delhi",
+    "state": "Delhi",
+    "latitude": 28.6353,
+    "longitude": 77.225,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "north-delhi-delhi",
+    "name": "North Delhi",
+    "state": "Delhi",
+    "latitude": 28.7484,
+    "longitude": 77.206,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "north-east-delhi-delhi",
+    "name": "North East Delhi",
+    "state": "Delhi",
+    "latitude": 28.6966,
+    "longitude": 77.2635,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "north-west-delhi-delhi",
+    "name": "North West Delhi",
+    "state": "Delhi",
+    "latitude": 28.7706,
+    "longitude": 77.0795,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "south-delhi-delhi",
+    "name": "South Delhi",
+    "state": "Delhi",
+    "latitude": 28.5086,
+    "longitude": 77.2175,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "south-west-delhi-delhi",
+    "name": "South West Delhi",
+    "state": "Delhi",
+    "latitude": 28.5828,
+    "longitude": 77.0334,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "west-delhi-delhi",
+    "name": "West Delhi",
+    "state": "Delhi",
+    "latitude": 28.6663,
+    "longitude": 77.068,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "north-goa-goa",
+    "name": "North Goa",
+    "state": "Goa",
+    "latitude": 15.5163,
+    "longitude": 73.983,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "south-goa-goa",
+    "name": "South Goa",
+    "state": "Goa",
+    "latitude": 15.1177,
+    "longitude": 74.124,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "ahmedabad-gujarat",
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.0225,
+    "longitude": 72.5714,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "amreli-gujarat",
+    "name": "Amreli",
+    "state": "Gujarat",
+    "latitude": 21.6167,
+    "longitude": 71.2333,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "anand-gujarat",
+    "name": "Anand",
+    "state": "Gujarat",
+    "latitude": 22.5667,
+    "longitude": 72.9333,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "banaskantha-gujarat",
+    "name": "Banaskantha",
+    "state": "Gujarat",
+    "latitude": 24.307,
+    "longitude": 72.3515,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "bharuch-gujarat",
+    "name": "Bharuch",
+    "state": "Gujarat",
+    "latitude": 21.7051,
+    "longitude": 72.9959,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "bhavnagar-gujarat",
+    "name": "Bhavnagar",
+    "state": "Gujarat",
+    "latitude": 21.7645,
+    "longitude": 72.1519,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "dahod-gujarat",
+    "name": "Dahod",
+    "state": "Gujarat",
+    "latitude": 22.8333,
+    "longitude": 74.2667,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "gandhi-nagar-gujarat",
+    "name": "Gandhi Nagar",
+    "state": "Gujarat",
+    "latitude": 20.8135,
+    "longitude": 72.9588,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "jamnagar-gujarat",
+    "name": "Jamnagar",
+    "state": "Gujarat",
+    "latitude": 22.4707,
+    "longitude": 70.0577,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "junagadh-gujarat",
+    "name": "Junagadh",
+    "state": "Gujarat",
+    "latitude": 21.5222,
+    "longitude": 70.4579,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "kachchh-gujarat",
+    "name": "Kachchh",
+    "state": "Gujarat",
+    "latitude": 23.7337,
+    "longitude": 69.8597,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "kheda-gujarat",
+    "name": "Kheda",
+    "state": "Gujarat",
+    "latitude": 22.7495,
+    "longitude": 72.6831,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "mahesana-gujarat",
+    "name": "Mahesana",
+    "state": "Gujarat",
+    "latitude": 23.588,
+    "longitude": 72.3693,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "narmada-gujarat",
+    "name": "Narmada",
+    "state": "Gujarat",
+    "latitude": 21.8757,
+    "longitude": 73.5594,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "navsari-gujarat",
+    "name": "Navsari",
+    "state": "Gujarat",
+    "latitude": 20.9453,
+    "longitude": 72.9342,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "panch-mahals-gujarat",
+    "name": "Panch Mahals",
+    "state": "Gujarat",
+    "latitude": 22.8011,
+    "longitude": 73.5594,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "patan-gujarat",
+    "name": "Patan",
+    "state": "Gujarat",
+    "latitude": 23.8508,
+    "longitude": 72.1148,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "porbandar-gujarat",
+    "name": "Porbandar",
+    "state": "Gujarat",
+    "latitude": 21.6417,
+    "longitude": 69.6293,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "rajkot-gujarat",
+    "name": "Rajkot",
+    "state": "Gujarat",
+    "latitude": 22.3039,
+    "longitude": 70.8022,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "sabarkantha-gujarat",
+    "name": "Sabarkantha",
+    "state": "Gujarat",
+    "latitude": 23.8477,
+    "longitude": 72.9933,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "surat-gujarat",
+    "name": "Surat",
+    "state": "Gujarat",
+    "latitude": 21.195,
+    "longitude": 72.8194,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "surendra-nagar-gujarat",
+    "name": "Surendra Nagar",
+    "state": "Gujarat",
+    "latitude": 22.7201,
+    "longitude": 71.6495,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "tapi-gujarat",
+    "name": "Tapi",
+    "state": "Gujarat",
+    "latitude": 21.2789,
+    "longitude": 73.6065,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "the-dangs-gujarat",
+    "name": "The Dangs",
+    "state": "Gujarat",
+    "latitude": 20.8254,
+    "longitude": 73.7007,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "vadodara-gujarat",
+    "name": "Vadodara",
+    "state": "Gujarat",
+    "latitude": 22.3072,
+    "longitude": 73.1812,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "valsad-gujarat",
+    "name": "Valsad",
+    "state": "Gujarat",
+    "latitude": 20.5992,
+    "longitude": 72.9342,
+    "language_code": "gu",
+    "language_name": "Gujarati"
+  },
+  {
+    "id": "ambala-haryana",
+    "name": "Ambala",
+    "state": "Haryana",
+    "latitude": 30.3782,
+    "longitude": 76.7767,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bhiwani-haryana",
+    "name": "Bhiwani",
+    "state": "Haryana",
+    "latitude": 28.799,
+    "longitude": 76.1335,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "faridabad-haryana",
+    "name": "Faridabad",
+    "state": "Haryana",
+    "latitude": 28.4089,
+    "longitude": 77.3178,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "fatehabad-haryana",
+    "name": "Fatehabad",
+    "state": "Haryana",
+    "latitude": 29.52,
+    "longitude": 75.45,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "gurgaon-haryana",
+    "name": "Gurgaon",
+    "state": "Haryana",
+    "latitude": 28.4595,
+    "longitude": 77.0266,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "hisar-haryana",
+    "name": "Hisar",
+    "state": "Haryana",
+    "latitude": 29.1492,
+    "longitude": 75.7217,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jhajjar-haryana",
+    "name": "Jhajjar",
+    "state": "Haryana",
+    "latitude": 28.6062,
+    "longitude": 76.6468,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jind-haryana",
+    "name": "Jind",
+    "state": "Haryana",
+    "latitude": 29.3167,
+    "longitude": 76.3167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kaithal-haryana",
+    "name": "Kaithal",
+    "state": "Haryana",
+    "latitude": 29.8,
+    "longitude": 76.3833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "karnal-haryana",
+    "name": "Karnal",
+    "state": "Haryana",
+    "latitude": 29.6857,
+    "longitude": 76.9905,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kurukshetra-haryana",
+    "name": "Kurukshetra",
+    "state": "Haryana",
+    "latitude": 29.9695,
+    "longitude": 76.8783,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mahendragarh-haryana",
+    "name": "Mahendragarh",
+    "state": "Haryana",
+    "latitude": 28.2833,
+    "longitude": 76.15,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "panchkula-haryana",
+    "name": "Panchkula",
+    "state": "Haryana",
+    "latitude": 30.6942,
+    "longitude": 76.8606,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "panipat-haryana",
+    "name": "Panipat",
+    "state": "Haryana",
+    "latitude": 29.3907,
+    "longitude": 76.9736,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "rewari-haryana",
+    "name": "Rewari",
+    "state": "Haryana",
+    "latitude": 28.1833,
+    "longitude": 76.6167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "rohtak-haryana",
+    "name": "Rohtak",
+    "state": "Haryana",
+    "latitude": 28.8909,
+    "longitude": 76.5796,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sirsa-haryana",
+    "name": "Sirsa",
+    "state": "Haryana",
+    "latitude": 29.5336,
+    "longitude": 75.0177,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sonipat-haryana",
+    "name": "Sonipat",
+    "state": "Haryana",
+    "latitude": 28.9286,
+    "longitude": 77.0915,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "yamuna-nagar-haryana",
+    "name": "Yamuna Nagar",
+    "state": "Haryana",
+    "latitude": 30.1293,
+    "longitude": 77.2693,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bilaspur-hp-himachal-pradesh",
+    "name": "Bilaspur (HP)",
+    "state": "Himachal Pradesh",
+    "latitude": 31.3429,
+    "longitude": 76.7625,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "chamba-himachal-pradesh",
+    "name": "Chamba",
+    "state": "Himachal Pradesh",
+    "latitude": 32.5534,
+    "longitude": 76.1258,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "hamirpur-hp-himachal-pradesh",
+    "name": "Hamirpur(HP)",
+    "state": "Himachal Pradesh",
+    "latitude": 31.6862,
+    "longitude": 76.5213,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kangra-himachal-pradesh",
+    "name": "Kangra",
+    "state": "Himachal Pradesh",
+    "latitude": 32.0998,
+    "longitude": 76.2691,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kinnaur-himachal-pradesh",
+    "name": "Kinnaur",
+    "state": "Himachal Pradesh",
+    "latitude": 31.651,
+    "longitude": 78.4752,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kullu-himachal-pradesh",
+    "name": "Kullu",
+    "state": "Himachal Pradesh",
+    "latitude": 31.9579,
+    "longitude": 77.1095,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "lahul-spiti-himachal-pradesh",
+    "name": "Lahul & Spiti",
+    "state": "Himachal Pradesh",
+    "latitude": 32.6192,
+    "longitude": 77.3784,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mandi-himachal-pradesh",
+    "name": "Mandi",
+    "state": "Himachal Pradesh",
+    "latitude": 31.7082,
+    "longitude": 76.9314,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "shimla-himachal-pradesh",
+    "name": "Shimla",
+    "state": "Himachal Pradesh",
+    "latitude": 31.1046,
+    "longitude": 77.1734,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sirmaur-himachal-pradesh",
+    "name": "Sirmaur",
+    "state": "Himachal Pradesh",
+    "latitude": 30.5628,
+    "longitude": 77.4702,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "solan-himachal-pradesh",
+    "name": "Solan",
+    "state": "Himachal Pradesh",
+    "latitude": 30.91,
+    "longitude": 77.11,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "una-himachal-pradesh",
+    "name": "Una",
+    "state": "Himachal Pradesh",
+    "latitude": 31.4684,
+    "longitude": 76.2708,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ananthnag-jammu-kashmir",
+    "name": "Ananthnag",
+    "state": "Jammu & Kashmir",
+    "latitude": 33.7311,
+    "longitude": 75.1487,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bandipur-jammu-kashmir",
+    "name": "Bandipur",
+    "state": "Jammu & Kashmir",
+    "latitude": 34.4203,
+    "longitude": 74.6576,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "baramulla-jammu-kashmir",
+    "name": "Baramulla",
+    "state": "Jammu & Kashmir",
+    "latitude": 34.2076,
+    "longitude": 74.3529,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "budgam-jammu-kashmir",
+    "name": "Budgam",
+    "state": "Jammu & Kashmir",
+    "latitude": 33.9349,
+    "longitude": 74.64,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "doda-jammu-kashmir",
+    "name": "Doda",
+    "state": "Jammu & Kashmir",
+    "latitude": 33.1457,
+    "longitude": 75.548,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jammu-jammu-kashmir",
+    "name": "Jammu",
+    "state": "Jammu & Kashmir",
+    "latitude": 32.7266,
+    "longitude": 74.857,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kargil-jammu-kashmir",
+    "name": "Kargil",
+    "state": "Jammu & Kashmir",
+    "latitude": 34.5569,
+    "longitude": 76.1378,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kathua-jammu-kashmir",
+    "name": "Kathua",
+    "state": "Jammu & Kashmir",
+    "latitude": 32.3776,
+    "longitude": 75.5218,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kulgam-jammu-kashmir",
+    "name": "Kulgam",
+    "state": "Jammu & Kashmir",
+    "latitude": 33.6451,
+    "longitude": 75.0185,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kupwara-jammu-kashmir",
+    "name": "Kupwara",
+    "state": "Jammu & Kashmir",
+    "latitude": 34.5262,
+    "longitude": 74.2546,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "leh-jammu-kashmir",
+    "name": "Leh",
+    "state": "Jammu & Kashmir",
+    "latitude": 34.1526,
+    "longitude": 77.5771,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "poonch-jammu-kashmir",
+    "name": "Poonch",
+    "state": "Jammu & Kashmir",
+    "latitude": 33.7717,
+    "longitude": 74.0946,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "pulwama-jammu-kashmir",
+    "name": "Pulwama",
+    "state": "Jammu & Kashmir",
+    "latitude": 33.8716,
+    "longitude": 74.8946,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "rajauri-jammu-kashmir",
+    "name": "Rajauri",
+    "state": "Jammu & Kashmir",
+    "latitude": 33.3829,
+    "longitude": 74.291,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "reasi-jammu-kashmir",
+    "name": "Reasi",
+    "state": "Jammu & Kashmir",
+    "latitude": 33.091,
+    "longitude": 74.8449,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "shopian-jammu-kashmir",
+    "name": "Shopian",
+    "state": "Jammu & Kashmir",
+    "latitude": 33.717,
+    "longitude": 74.8361,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "srinagar-jammu-kashmir",
+    "name": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "latitude": 34.0837,
+    "longitude": 74.7974,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "udhampur-jammu-kashmir",
+    "name": "Udhampur",
+    "state": "Jammu & Kashmir",
+    "latitude": 32.7266,
+    "longitude": 74.857,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bokaro-jharkhand",
+    "name": "Bokaro",
+    "state": "Jharkhand",
+    "latitude": 23.67,
+    "longitude": 86.15,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "chatra-jharkhand",
+    "name": "Chatra",
+    "state": "Jharkhand",
+    "latitude": 24.2167,
+    "longitude": 84.8667,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "deoghar-jharkhand",
+    "name": "Deoghar",
+    "state": "Jharkhand",
+    "latitude": 24.4833,
+    "longitude": 86.7,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dhanbad-jharkhand",
+    "name": "Dhanbad",
+    "state": "Jharkhand",
+    "latitude": 23.7957,
+    "longitude": 86.4304,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dumka-jharkhand",
+    "name": "Dumka",
+    "state": "Jharkhand",
+    "latitude": 24.2667,
+    "longitude": 87.25,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "east-singhbhum-jharkhand",
+    "name": "East Singhbhum",
+    "state": "Jharkhand",
+    "latitude": 22.4867,
+    "longitude": 86.4997,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "garhwa-jharkhand",
+    "name": "Garhwa",
+    "state": "Jharkhand",
+    "latitude": 24.1549,
+    "longitude": 83.7996,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "giridh-jharkhand",
+    "name": "Giridh",
+    "state": "Jharkhand",
+    "latitude": 24.1821,
+    "longitude": 86.287,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "godda-jharkhand",
+    "name": "Godda",
+    "state": "Jharkhand",
+    "latitude": 24.8255,
+    "longitude": 87.2135,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "gumla-jharkhand",
+    "name": "Gumla",
+    "state": "Jharkhand",
+    "latitude": 23.0474,
+    "longitude": 84.5421,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "hazaribag-jharkhand",
+    "name": "Hazaribag",
+    "state": "Jharkhand",
+    "latitude": 23.9833,
+    "longitude": 85.35,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jamtara-jharkhand",
+    "name": "Jamtara",
+    "state": "Jharkhand",
+    "latitude": 23.9505,
+    "longitude": 86.817,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "khunti-jharkhand",
+    "name": "Khunti",
+    "state": "Jharkhand",
+    "latitude": 23.0833,
+    "longitude": 85.2833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "koderma-jharkhand",
+    "name": "Koderma",
+    "state": "Jharkhand",
+    "latitude": 24.4667,
+    "longitude": 85.6,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "latehar-jharkhand",
+    "name": "Latehar",
+    "state": "Jharkhand",
+    "latitude": 23.75,
+    "longitude": 84.5,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "lohardaga-jharkhand",
+    "name": "Lohardaga",
+    "state": "Jharkhand",
+    "latitude": 23.4333,
+    "longitude": 84.6833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "pakur-jharkhand",
+    "name": "Pakur",
+    "state": "Jharkhand",
+    "latitude": 24.6274,
+    "longitude": 87.8549,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "palamau-jharkhand",
+    "name": "Palamau",
+    "state": "Jharkhand",
+    "latitude": 24.1286,
+    "longitude": 84.1857,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ramgarh-jharkhand",
+    "name": "Ramgarh",
+    "state": "Jharkhand",
+    "latitude": 23.6283,
+    "longitude": 85.5211,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ranchi-jharkhand",
+    "name": "Ranchi",
+    "state": "Jharkhand",
+    "latitude": 23.3441,
+    "longitude": 85.3096,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sahibganj-jharkhand",
+    "name": "Sahibganj",
+    "state": "Jharkhand",
+    "latitude": 25.2354,
+    "longitude": 87.6433,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "seraikela-kharsawan-jharkhand",
+    "name": "Seraikela-kharsawan",
+    "state": "Jharkhand",
+    "latitude": 22.8561,
+    "longitude": 86.0122,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "simdega-jharkhand",
+    "name": "Simdega",
+    "state": "Jharkhand",
+    "latitude": 22.6151,
+    "longitude": 84.496,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "west-singhbhum-jharkhand",
+    "name": "West Singhbhum",
+    "state": "Jharkhand",
+    "latitude": 22.3651,
+    "longitude": 85.4376,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bagalkot-karnataka",
+    "name": "Bagalkot",
+    "state": "Karnataka",
+    "latitude": 16.1833,
+    "longitude": 75.7,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "bangalore-karnataka",
+    "name": "Bangalore",
+    "state": "Karnataka",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "bangalore-rural-karnataka",
+    "name": "Bangalore Rural",
+    "state": "Karnataka",
+    "latitude": 13.2847,
+    "longitude": 77.6078,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "belgaum-karnataka",
+    "name": "Belgaum",
+    "state": "Karnataka",
+    "latitude": 15.8667,
+    "longitude": 74.5,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "bellary-karnataka",
+    "name": "Bellary",
+    "state": "Karnataka",
+    "latitude": 15.1394,
+    "longitude": 76.9214,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "bidar-karnataka",
+    "name": "Bidar",
+    "state": "Karnataka",
+    "latitude": 17.92,
+    "longitude": 77.5197,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "bijapur-kar-karnataka",
+    "name": "Bijapur(KAR)",
+    "state": "Karnataka",
+    "latitude": 16.83,
+    "longitude": 75.7,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "chamrajnagar-karnataka",
+    "name": "Chamrajnagar",
+    "state": "Karnataka",
+    "latitude": 11.9261,
+    "longitude": 76.9437,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "chickmagalur-karnataka",
+    "name": "Chickmagalur",
+    "state": "Karnataka",
+    "latitude": 13.3153,
+    "longitude": 75.7754,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "chikkaballapur-karnataka",
+    "name": "Chikkaballapur",
+    "state": "Karnataka",
+    "latitude": 13.4342,
+    "longitude": 77.7242,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "chitradurga-karnataka",
+    "name": "Chitradurga",
+    "state": "Karnataka",
+    "latitude": 14.2333,
+    "longitude": 76.4,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "dakshina-kannada-karnataka",
+    "name": "Dakshina Kannada",
+    "state": "Karnataka",
+    "latitude": 12.8438,
+    "longitude": 75.2479,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "davangere-karnataka",
+    "name": "Davangere",
+    "state": "Karnataka",
+    "latitude": 14.4663,
+    "longitude": 75.9238,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "dharwad-karnataka",
+    "name": "Dharwad",
+    "state": "Karnataka",
+    "latitude": 15.45,
+    "longitude": 75.0,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "gadag-karnataka",
+    "name": "Gadag",
+    "state": "Karnataka",
+    "latitude": 15.4324,
+    "longitude": 75.6383,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "gulbarga-karnataka",
+    "name": "Gulbarga",
+    "state": "Karnataka",
+    "latitude": 17.3297,
+    "longitude": 76.8343,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "hassan-karnataka",
+    "name": "Hassan",
+    "state": "Karnataka",
+    "latitude": 13.0068,
+    "longitude": 76.0996,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "haveri-karnataka",
+    "name": "Haveri",
+    "state": "Karnataka",
+    "latitude": 14.8,
+    "longitude": 75.4,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "kodagu-karnataka",
+    "name": "Kodagu",
+    "state": "Karnataka",
+    "latitude": 12.3375,
+    "longitude": 75.8069,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "kolar-karnataka",
+    "name": "Kolar",
+    "state": "Karnataka",
+    "latitude": 13.1357,
+    "longitude": 78.1326,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "koppal-karnataka",
+    "name": "Koppal",
+    "state": "Karnataka",
+    "latitude": 15.3507,
+    "longitude": 76.1554,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "mandya-karnataka",
+    "name": "Mandya",
+    "state": "Karnataka",
+    "latitude": 12.5242,
+    "longitude": 76.8958,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "mysore-karnataka",
+    "name": "Mysore",
+    "state": "Karnataka",
+    "latitude": 12.2958,
+    "longitude": 76.6394,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "raichur-karnataka",
+    "name": "Raichur",
+    "state": "Karnataka",
+    "latitude": 16.2,
+    "longitude": 77.37,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "ramanagar-karnataka",
+    "name": "Ramanagar",
+    "state": "Karnataka",
+    "latitude": 17.1711,
+    "longitude": 76.0218,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "shimoga-karnataka",
+    "name": "Shimoga",
+    "state": "Karnataka",
+    "latitude": 13.9299,
+    "longitude": 75.5681,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "tumkur-karnataka",
+    "name": "Tumkur",
+    "state": "Karnataka",
+    "latitude": 13.34,
+    "longitude": 77.1,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "udupi-karnataka",
+    "name": "Udupi",
+    "state": "Karnataka",
+    "latitude": 13.35,
+    "longitude": 74.75,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "uttara-kannada-karnataka",
+    "name": "Uttara Kannada",
+    "state": "Karnataka",
+    "latitude": 14.7937,
+    "longitude": 74.6869,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "yadgir-karnataka",
+    "name": "Yadgir",
+    "state": "Karnataka",
+    "latitude": 16.7667,
+    "longitude": 77.1333,
+    "language_code": "kn",
+    "language_name": "Kannada"
+  },
+  {
+    "id": "alappuzha-kerala",
+    "name": "Alappuzha",
+    "state": "Kerala",
+    "latitude": 9.4981,
+    "longitude": 76.3388,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "ernakulam-kerala",
+    "name": "Ernakulam",
+    "state": "Kerala",
+    "latitude": 9.98,
+    "longitude": 76.28,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "idukki-kerala",
+    "name": "Idukki",
+    "state": "Kerala",
+    "latitude": 9.8138,
+    "longitude": 76.9297,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "kannur-kerala",
+    "name": "Kannur",
+    "state": "Kerala",
+    "latitude": 11.8745,
+    "longitude": 75.3704,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "kasargod-kerala",
+    "name": "Kasargod",
+    "state": "Kerala",
+    "latitude": 12.5102,
+    "longitude": 74.9852,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "kollam-kerala",
+    "name": "Kollam",
+    "state": "Kerala",
+    "latitude": 8.8932,
+    "longitude": 76.6141,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "kottayam-kerala",
+    "name": "Kottayam",
+    "state": "Kerala",
+    "latitude": 9.5916,
+    "longitude": 76.5222,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "kozhikode-kerala",
+    "name": "Kozhikode",
+    "state": "Kerala",
+    "latitude": 11.2588,
+    "longitude": 75.7804,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "malappuram-kerala",
+    "name": "Malappuram",
+    "state": "Kerala",
+    "latitude": 11.0667,
+    "longitude": 76.0667,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "palakkad-kerala",
+    "name": "Palakkad",
+    "state": "Kerala",
+    "latitude": 10.7867,
+    "longitude": 76.6548,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "pathanamthitta-kerala",
+    "name": "Pathanamthitta",
+    "state": "Kerala",
+    "latitude": 9.2648,
+    "longitude": 76.787,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "thiruvananthapuram-kerala",
+    "name": "Thiruvananthapuram",
+    "state": "Kerala",
+    "latitude": 8.4874,
+    "longitude": 76.952,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "thrissur-kerala",
+    "name": "Thrissur",
+    "state": "Kerala",
+    "latitude": 10.5276,
+    "longitude": 76.2144,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "wayanad-kerala",
+    "name": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.6995,
+    "longitude": 76.0798,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "lakshadweep-lakshadweep",
+    "name": "Lakshadweep",
+    "state": "Lakshadweep",
+    "latitude": 10.8117,
+    "longitude": 73.6814,
+    "language_code": "ml",
+    "language_name": "Malayalam"
+  },
+  {
+    "id": "alirajpur-madhya-pradesh",
+    "name": "Alirajpur",
+    "state": "Madhya Pradesh",
+    "latitude": 22.3053,
+    "longitude": 74.3525,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "anuppur-madhya-pradesh",
+    "name": "Anuppur",
+    "state": "Madhya Pradesh",
+    "latitude": 23.11,
+    "longitude": 81.6966,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ashok-nagar-madhya-pradesh",
+    "name": "Ashok Nagar",
+    "state": "Madhya Pradesh",
+    "latitude": 22.6963,
+    "longitude": 75.8716,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "balaghat-madhya-pradesh",
+    "name": "Balaghat",
+    "state": "Madhya Pradesh",
+    "latitude": 21.8129,
+    "longitude": 80.1838,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "barwani-madhya-pradesh",
+    "name": "Barwani",
+    "state": "Madhya Pradesh",
+    "latitude": 22.0308,
+    "longitude": 74.8972,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "betul-madhya-pradesh",
+    "name": "Betul",
+    "state": "Madhya Pradesh",
+    "latitude": 21.9153,
+    "longitude": 77.8961,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bhind-madhya-pradesh",
+    "name": "Bhind",
+    "state": "Madhya Pradesh",
+    "latitude": 26.5642,
+    "longitude": 78.7883,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bhopal-madhya-pradesh",
+    "name": "Bhopal",
+    "state": "Madhya Pradesh",
+    "latitude": 23.2599,
+    "longitude": 77.4126,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "burhanpur-madhya-pradesh",
+    "name": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "latitude": 21.3,
+    "longitude": 76.2333,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "chhatarpur-madhya-pradesh",
+    "name": "Chhatarpur",
+    "state": "Madhya Pradesh",
+    "latitude": 24.9,
+    "longitude": 79.6,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "chhindwara-madhya-pradesh",
+    "name": "Chhindwara",
+    "state": "Madhya Pradesh",
+    "latitude": 22.0574,
+    "longitude": 78.9382,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "damoh-madhya-pradesh",
+    "name": "Damoh",
+    "state": "Madhya Pradesh",
+    "latitude": 23.8381,
+    "longitude": 79.4422,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "datia-madhya-pradesh",
+    "name": "Datia",
+    "state": "Madhya Pradesh",
+    "latitude": 25.6653,
+    "longitude": 78.4609,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dewas-madhya-pradesh",
+    "name": "Dewas",
+    "state": "Madhya Pradesh",
+    "latitude": 22.9667,
+    "longitude": 76.0667,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dhar-madhya-pradesh",
+    "name": "Dhar",
+    "state": "Madhya Pradesh",
+    "latitude": 22.6013,
+    "longitude": 75.3025,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dindori-madhya-pradesh",
+    "name": "Dindori",
+    "state": "Madhya Pradesh",
+    "latitude": 22.9418,
+    "longitude": 81.0768,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "east-nimar-madhya-pradesh",
+    "name": "East Nimar",
+    "state": "Madhya Pradesh",
+    "latitude": 21.8803,
+    "longitude": 76.6413,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "guna-madhya-pradesh",
+    "name": "Guna",
+    "state": "Madhya Pradesh",
+    "latitude": 24.643,
+    "longitude": 77.3031,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "gwalior-madhya-pradesh",
+    "name": "Gwalior",
+    "state": "Madhya Pradesh",
+    "latitude": 26.2183,
+    "longitude": 78.1828,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "harda-madhya-pradesh",
+    "name": "Harda",
+    "state": "Madhya Pradesh",
+    "latitude": 22.3442,
+    "longitude": 77.0967,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "hoshangabad-madhya-pradesh",
+    "name": "Hoshangabad",
+    "state": "Madhya Pradesh",
+    "latitude": 22.7441,
+    "longitude": 77.737,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "indore-madhya-pradesh",
+    "name": "Indore",
+    "state": "Madhya Pradesh",
+    "latitude": 22.7196,
+    "longitude": 75.8577,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jabalpur-madhya-pradesh",
+    "name": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "latitude": 23.1667,
+    "longitude": 79.95,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jhabua-madhya-pradesh",
+    "name": "Jhabua",
+    "state": "Madhya Pradesh",
+    "latitude": 22.7697,
+    "longitude": 74.5921,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "katni-madhya-pradesh",
+    "name": "Katni",
+    "state": "Madhya Pradesh",
+    "latitude": 23.85,
+    "longitude": 80.4,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "khandwa-madhya-pradesh",
+    "name": "Khandwa",
+    "state": "Madhya Pradesh",
+    "latitude": 21.8257,
+    "longitude": 76.3526,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "khargone-madhya-pradesh",
+    "name": "Khargone",
+    "state": "Madhya Pradesh",
+    "latitude": 21.8335,
+    "longitude": 75.615,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mandla-madhya-pradesh",
+    "name": "Mandla",
+    "state": "Madhya Pradesh",
+    "latitude": 22.5979,
+    "longitude": 80.3714,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mandsaur-madhya-pradesh",
+    "name": "Mandsaur",
+    "state": "Madhya Pradesh",
+    "latitude": 24.0667,
+    "longitude": 75.0667,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "morena-madhya-pradesh",
+    "name": "Morena",
+    "state": "Madhya Pradesh",
+    "latitude": 26.4969,
+    "longitude": 78.0,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "narsinghpur-madhya-pradesh",
+    "name": "Narsinghpur",
+    "state": "Madhya Pradesh",
+    "latitude": 22.95,
+    "longitude": 79.2,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "neemuch-madhya-pradesh",
+    "name": "Neemuch",
+    "state": "Madhya Pradesh",
+    "latitude": 24.4764,
+    "longitude": 74.8624,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "panna-madhya-pradesh",
+    "name": "Panna",
+    "state": "Madhya Pradesh",
+    "latitude": 24.718,
+    "longitude": 80.1819,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "raisen-madhya-pradesh",
+    "name": "Raisen",
+    "state": "Madhya Pradesh",
+    "latitude": 23.3333,
+    "longitude": 77.8,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "rajgarh-madhya-pradesh",
+    "name": "Rajgarh",
+    "state": "Madhya Pradesh",
+    "latitude": 24.0079,
+    "longitude": 76.7279,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ratlam-madhya-pradesh",
+    "name": "Ratlam",
+    "state": "Madhya Pradesh",
+    "latitude": 23.3342,
+    "longitude": 75.0376,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "rewa-madhya-pradesh",
+    "name": "Rewa",
+    "state": "Madhya Pradesh",
+    "latitude": 24.5314,
+    "longitude": 81.3011,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sagar-madhya-pradesh",
+    "name": "Sagar",
+    "state": "Madhya Pradesh",
+    "latitude": 23.8388,
+    "longitude": 78.7378,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "satna-madhya-pradesh",
+    "name": "Satna",
+    "state": "Madhya Pradesh",
+    "latitude": 24.5833,
+    "longitude": 80.8333,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sehore-madhya-pradesh",
+    "name": "Sehore",
+    "state": "Madhya Pradesh",
+    "latitude": 23.2,
+    "longitude": 77.0833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "seoni-madhya-pradesh",
+    "name": "Seoni",
+    "state": "Madhya Pradesh",
+    "latitude": 22.0869,
+    "longitude": 79.5435,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "shahdol-madhya-pradesh",
+    "name": "Shahdol",
+    "state": "Madhya Pradesh",
+    "latitude": 23.3022,
+    "longitude": 81.3568,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "shajapur-madhya-pradesh",
+    "name": "Shajapur",
+    "state": "Madhya Pradesh",
+    "latitude": 23.4333,
+    "longitude": 76.2667,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sheopur-madhya-pradesh",
+    "name": "Sheopur",
+    "state": "Madhya Pradesh",
+    "latitude": 25.6667,
+    "longitude": 76.7,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "shivpuri-madhya-pradesh",
+    "name": "Shivpuri",
+    "state": "Madhya Pradesh",
+    "latitude": 25.4333,
+    "longitude": 77.65,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sidhi-madhya-pradesh",
+    "name": "Sidhi",
+    "state": "Madhya Pradesh",
+    "latitude": 24.4167,
+    "longitude": 81.8833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "singrauli-madhya-pradesh",
+    "name": "Singrauli",
+    "state": "Madhya Pradesh",
+    "latitude": 24.1992,
+    "longitude": 82.6645,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "tikamgarh-madhya-pradesh",
+    "name": "Tikamgarh",
+    "state": "Madhya Pradesh",
+    "latitude": 24.7456,
+    "longitude": 78.8321,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ujjain-madhya-pradesh",
+    "name": "Ujjain",
+    "state": "Madhya Pradesh",
+    "latitude": 23.1793,
+    "longitude": 75.7849,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "umaria-madhya-pradesh",
+    "name": "Umaria",
+    "state": "Madhya Pradesh",
+    "latitude": 23.531,
+    "longitude": 80.8295,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "vidisha-madhya-pradesh",
+    "name": "Vidisha",
+    "state": "Madhya Pradesh",
+    "latitude": 23.5333,
+    "longitude": 77.8167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "west-nimar-madhya-pradesh",
+    "name": "West Nimar",
+    "state": "Madhya Pradesh",
+    "latitude": 21.9029,
+    "longitude": 75.8069,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ahmed-nagar-maharashtra",
+    "name": "Ahmed Nagar",
+    "state": "Maharashtra",
+    "latitude": 20.25,
+    "longitude": 74.4335,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "akola-maharashtra",
+    "name": "Akola",
+    "state": "Maharashtra",
+    "latitude": 20.7333,
+    "longitude": 77.0,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "amravati-maharashtra",
+    "name": "Amravati",
+    "state": "Maharashtra",
+    "latitude": 20.9258,
+    "longitude": 77.7647,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "aurangabad-maharashtra",
+    "name": "Aurangabad",
+    "state": "Maharashtra",
+    "latitude": 19.8762,
+    "longitude": 75.3433,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "beed-maharashtra",
+    "name": "Beed",
+    "state": "Maharashtra",
+    "latitude": 18.9891,
+    "longitude": 75.7601,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "bhandara-maharashtra",
+    "name": "Bhandara",
+    "state": "Maharashtra",
+    "latitude": 21.1667,
+    "longitude": 79.65,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "buldhana-maharashtra",
+    "name": "Buldhana",
+    "state": "Maharashtra",
+    "latitude": 20.5333,
+    "longitude": 76.1833,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "chandrapur-maharashtra",
+    "name": "Chandrapur",
+    "state": "Maharashtra",
+    "latitude": 19.95,
+    "longitude": 79.3,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "dhule-maharashtra",
+    "name": "Dhule",
+    "state": "Maharashtra",
+    "latitude": 20.9042,
+    "longitude": 74.7749,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "gadchiroli-maharashtra",
+    "name": "Gadchiroli",
+    "state": "Maharashtra",
+    "latitude": 20.1849,
+    "longitude": 79.9948,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "gondia-maharashtra",
+    "name": "Gondia",
+    "state": "Maharashtra",
+    "latitude": 21.45,
+    "longitude": 80.2,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "hingoli-maharashtra",
+    "name": "Hingoli",
+    "state": "Maharashtra",
+    "latitude": 19.7167,
+    "longitude": 77.15,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "jalgaon-maharashtra",
+    "name": "Jalgaon",
+    "state": "Maharashtra",
+    "latitude": 21.0167,
+    "longitude": 75.5667,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "jalna-maharashtra",
+    "name": "Jalna",
+    "state": "Maharashtra",
+    "latitude": 19.8333,
+    "longitude": 75.8833,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "kolhapur-maharashtra",
+    "name": "Kolhapur",
+    "state": "Maharashtra",
+    "latitude": 16.6913,
+    "longitude": 74.2449,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "latur-maharashtra",
+    "name": "Latur",
+    "state": "Maharashtra",
+    "latitude": 18.4,
+    "longitude": 76.5833,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "mumbai-maharashtra",
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "nagpur-maharashtra",
+    "name": "Nagpur",
+    "state": "Maharashtra",
+    "latitude": 21.1458,
+    "longitude": 79.0882,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "nanded-maharashtra",
+    "name": "Nanded",
+    "state": "Maharashtra",
+    "latitude": 19.15,
+    "longitude": 77.3333,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "nandurbar-maharashtra",
+    "name": "Nandurbar",
+    "state": "Maharashtra",
+    "latitude": 21.3756,
+    "longitude": 74.2428,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "nashik-maharashtra",
+    "name": "Nashik",
+    "state": "Maharashtra",
+    "latitude": 19.9975,
+    "longitude": 73.7898,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "osmanabad-maharashtra",
+    "name": "Osmanabad",
+    "state": "Maharashtra",
+    "latitude": 18.1861,
+    "longitude": 76.0419,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "parbhani-maharashtra",
+    "name": "Parbhani",
+    "state": "Maharashtra",
+    "latitude": 19.2667,
+    "longitude": 76.7833,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "pune-maharashtra",
+    "name": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "raigarh-mh-maharashtra",
+    "name": "Raigarh(MH)",
+    "state": "Maharashtra",
+    "latitude": 18.5158,
+    "longitude": 73.1822,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "ratnagiri-maharashtra",
+    "name": "Ratnagiri",
+    "state": "Maharashtra",
+    "latitude": 16.9902,
+    "longitude": 73.312,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "sangli-maharashtra",
+    "name": "Sangli",
+    "state": "Maharashtra",
+    "latitude": 16.867,
+    "longitude": 74.567,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "satara-maharashtra",
+    "name": "Satara",
+    "state": "Maharashtra",
+    "latitude": 17.68,
+    "longitude": 73.98,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "sindhudurg-maharashtra",
+    "name": "Sindhudurg",
+    "state": "Maharashtra",
+    "latitude": 16.3492,
+    "longitude": 73.5594,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "solapur-maharashtra",
+    "name": "Solapur",
+    "state": "Maharashtra",
+    "latitude": 17.6599,
+    "longitude": 75.9064,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "thane-maharashtra",
+    "name": "Thane",
+    "state": "Maharashtra",
+    "latitude": 19.2183,
+    "longitude": 72.9781,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "wardha-maharashtra",
+    "name": "Wardha",
+    "state": "Maharashtra",
+    "latitude": 20.7453,
+    "longitude": 78.6022,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "washim-maharashtra",
+    "name": "Washim",
+    "state": "Maharashtra",
+    "latitude": 20.1,
+    "longitude": 77.15,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "yavatmal-maharashtra",
+    "name": "Yavatmal",
+    "state": "Maharashtra",
+    "latitude": 20.3888,
+    "longitude": 78.1204,
+    "language_code": "mr",
+    "language_name": "Marathi"
+  },
+  {
+    "id": "bishnupur-manipur",
+    "name": "Bishnupur",
+    "state": "Manipur",
+    "latitude": 24.6289,
+    "longitude": 93.7613,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "chandel-manipur",
+    "name": "Chandel",
+    "state": "Manipur",
+    "latitude": 24.3262,
+    "longitude": 94.0006,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "churachandpur-manipur",
+    "name": "Churachandpur",
+    "state": "Manipur",
+    "latitude": 24.35,
+    "longitude": 93.7,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "imphal-east-manipur",
+    "name": "Imphal East",
+    "state": "Manipur",
+    "latitude": 24.7807,
+    "longitude": 93.9674,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "imphal-west-manipur",
+    "name": "Imphal West",
+    "state": "Manipur",
+    "latitude": 24.7828,
+    "longitude": 93.8859,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "senapati-manipur",
+    "name": "Senapati",
+    "state": "Manipur",
+    "latitude": 25.2677,
+    "longitude": 94.021,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "tamenglong-manipur",
+    "name": "Tamenglong",
+    "state": "Manipur",
+    "latitude": 24.9879,
+    "longitude": 93.4953,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "thoubal-manipur",
+    "name": "Thoubal",
+    "state": "Manipur",
+    "latitude": 24.6595,
+    "longitude": 93.9817,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ukhrul-manipur",
+    "name": "Ukhrul",
+    "state": "Manipur",
+    "latitude": 25.0954,
+    "longitude": 94.3617,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "east-garo-hills-meghalaya",
+    "name": "East Garo Hills",
+    "state": "Meghalaya",
+    "latitude": 25.5672,
+    "longitude": 90.5258,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "east-khasi-hills-meghalaya",
+    "name": "East Khasi Hills",
+    "state": "Meghalaya",
+    "latitude": 25.3682,
+    "longitude": 91.7539,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jaintia-hills-meghalaya",
+    "name": "Jaintia Hills",
+    "state": "Meghalaya",
+    "latitude": 25.3333,
+    "longitude": 92.6667,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ri-bhoi-meghalaya",
+    "name": "Ri Bhoi",
+    "state": "Meghalaya",
+    "latitude": 25.8432,
+    "longitude": 91.9856,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "south-garo-hills-meghalaya",
+    "name": "South Garo Hills",
+    "state": "Meghalaya",
+    "latitude": 25.3301,
+    "longitude": 90.5636,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "west-garo-hills-meghalaya",
+    "name": "West Garo Hills",
+    "state": "Meghalaya",
+    "latitude": 25.5679,
+    "longitude": 90.2245,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "west-khasi-hills-meghalaya",
+    "name": "West Khasi Hills",
+    "state": "Meghalaya",
+    "latitude": 25.5625,
+    "longitude": 91.2891,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "aizawl-mizoram",
+    "name": "Aizawl",
+    "state": "Mizoram",
+    "latitude": 23.7271,
+    "longitude": 92.7176,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "champhai-mizoram",
+    "name": "Champhai",
+    "state": "Mizoram",
+    "latitude": 23.4566,
+    "longitude": 93.3282,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kolasib-mizoram",
+    "name": "Kolasib",
+    "state": "Mizoram",
+    "latitude": 24.2246,
+    "longitude": 92.676,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "lawngtlai-mizoram",
+    "name": "Lawngtlai",
+    "state": "Mizoram",
+    "latitude": 22.5333,
+    "longitude": 92.9,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "lunglei-mizoram",
+    "name": "Lunglei",
+    "state": "Mizoram",
+    "latitude": 22.8671,
+    "longitude": 92.7655,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mammit-mizoram",
+    "name": "Mammit",
+    "state": "Mizoram",
+    "latitude": 23.9294,
+    "longitude": 92.4906,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "saiha-mizoram",
+    "name": "Saiha",
+    "state": "Mizoram",
+    "latitude": 22.4897,
+    "longitude": 92.9793,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "serchhip-mizoram",
+    "name": "Serchhip",
+    "state": "Mizoram",
+    "latitude": 23.3417,
+    "longitude": 92.8502,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dimapur-nagaland",
+    "name": "Dimapur",
+    "state": "Nagaland",
+    "latitude": 25.92,
+    "longitude": 93.73,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kiphire-nagaland",
+    "name": "Kiphire",
+    "state": "Nagaland",
+    "latitude": 25.8689,
+    "longitude": 94.7853,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kohima-nagaland",
+    "name": "Kohima",
+    "state": "Nagaland",
+    "latitude": 25.67,
+    "longitude": 94.12,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "longleng-nagaland",
+    "name": "Longleng",
+    "state": "Nagaland",
+    "latitude": 26.4902,
+    "longitude": 94.8197,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mokokchung-nagaland",
+    "name": "Mokokchung",
+    "state": "Nagaland",
+    "latitude": 26.322,
+    "longitude": 94.5135,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mon-nagaland",
+    "name": "Mon",
+    "state": "Nagaland",
+    "latitude": 26.7226,
+    "longitude": 95.0312,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "peren-nagaland",
+    "name": "Peren",
+    "state": "Nagaland",
+    "latitude": 25.5125,
+    "longitude": 93.7391,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "phek-nagaland",
+    "name": "Phek",
+    "state": "Nagaland",
+    "latitude": 25.6995,
+    "longitude": 94.4612,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "tuensang-nagaland",
+    "name": "Tuensang",
+    "state": "Nagaland",
+    "latitude": 26.2357,
+    "longitude": 94.8132,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "wokha-nagaland",
+    "name": "Wokha",
+    "state": "Nagaland",
+    "latitude": 26.1,
+    "longitude": 94.2667,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "zunhebotto-nagaland",
+    "name": "Zunhebotto",
+    "state": "Nagaland",
+    "latitude": 26.0093,
+    "longitude": 94.5238,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "null-null",
+    "name": "NULL",
+    "state": "Null",
+    "latitude": 18.9579,
+    "longitude": 72.8299,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "angul-orissa",
+    "name": "Angul",
+    "state": "Orissa",
+    "latitude": 20.85,
+    "longitude": 85.1,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "balangir-orissa",
+    "name": "Balangir",
+    "state": "Orissa",
+    "latitude": 20.7074,
+    "longitude": 83.4843,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "baleswar-orissa",
+    "name": "Baleswar",
+    "state": "Orissa",
+    "latitude": 21.3469,
+    "longitude": 86.6611,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "bargarh-orissa",
+    "name": "Bargarh",
+    "state": "Orissa",
+    "latitude": 21.3333,
+    "longitude": 83.6167,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "bhadrak-orissa",
+    "name": "Bhadrak",
+    "state": "Orissa",
+    "latitude": 21.0583,
+    "longitude": 86.4958,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "boudh-orissa",
+    "name": "Boudh",
+    "state": "Orissa",
+    "latitude": 20.8333,
+    "longitude": 84.3167,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "cuttack-orissa",
+    "name": "Cuttack",
+    "state": "Orissa",
+    "latitude": 20.4625,
+    "longitude": 85.883,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "debagarh-orissa",
+    "name": "Debagarh",
+    "state": "Orissa",
+    "latitude": 21.5333,
+    "longitude": 84.7333,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "dhenkanal-orissa",
+    "name": "Dhenkanal",
+    "state": "Orissa",
+    "latitude": 20.6667,
+    "longitude": 85.6,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "gajapati-orissa",
+    "name": "Gajapati",
+    "state": "Orissa",
+    "latitude": 19.1912,
+    "longitude": 84.1857,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "ganjam-orissa",
+    "name": "Ganjam",
+    "state": "Orissa",
+    "latitude": 19.3874,
+    "longitude": 85.0515,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "jagatsinghapur-orissa",
+    "name": "Jagatsinghapur",
+    "state": "Orissa",
+    "latitude": 20.1976,
+    "longitude": 86.3377,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "jajapur-orissa",
+    "name": "Jajapur",
+    "state": "Orissa",
+    "latitude": 20.85,
+    "longitude": 86.3333,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "jharsuguda-orissa",
+    "name": "Jharsuguda",
+    "state": "Orissa",
+    "latitude": 21.8554,
+    "longitude": 84.0062,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "kalahandi-orissa",
+    "name": "Kalahandi",
+    "state": "Orissa",
+    "latitude": 19.9137,
+    "longitude": 83.1649,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "kandhamal-orissa",
+    "name": "Kandhamal",
+    "state": "Orissa",
+    "latitude": 20.1342,
+    "longitude": 84.0167,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "kendrapara-orissa",
+    "name": "Kendrapara",
+    "state": "Orissa",
+    "latitude": 20.5,
+    "longitude": 86.4167,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "kendujhar-orissa",
+    "name": "Kendujhar",
+    "state": "Orissa",
+    "latitude": 21.6333,
+    "longitude": 85.5833,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "khorda-orissa",
+    "name": "Khorda",
+    "state": "Orissa",
+    "latitude": 20.1301,
+    "longitude": 85.4788,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "koraput-orissa",
+    "name": "Koraput",
+    "state": "Orissa",
+    "latitude": 18.8135,
+    "longitude": 82.7123,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "malkangiri-orissa",
+    "name": "Malkangiri",
+    "state": "Orissa",
+    "latitude": 18.3436,
+    "longitude": 81.8825,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "mayurbhanj-orissa",
+    "name": "Mayurbhanj",
+    "state": "Orissa",
+    "latitude": 22.0087,
+    "longitude": 86.4187,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "nabarangapur-orissa",
+    "name": "Nabarangapur",
+    "state": "Orissa",
+    "latitude": 19.2281,
+    "longitude": 82.547,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "nayagarh-orissa",
+    "name": "Nayagarh",
+    "state": "Orissa",
+    "latitude": 20.1231,
+    "longitude": 85.1038,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "nuapada-orissa",
+    "name": "Nuapada",
+    "state": "Orissa",
+    "latitude": 20.8167,
+    "longitude": 82.5333,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "puri-orissa",
+    "name": "Puri",
+    "state": "Orissa",
+    "latitude": 19.8134,
+    "longitude": 85.8315,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "rayagada-orissa",
+    "name": "Rayagada",
+    "state": "Orissa",
+    "latitude": 19.1667,
+    "longitude": 83.4167,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "sambalpur-orissa",
+    "name": "Sambalpur",
+    "state": "Orissa",
+    "latitude": 21.4746,
+    "longitude": 83.985,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "sonapur-orissa",
+    "name": "Sonapur",
+    "state": "Orissa",
+    "latitude": 20.8555,
+    "longitude": 83.8369,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "sundergarh-orissa",
+    "name": "Sundergarh",
+    "state": "Orissa",
+    "latitude": 22.1167,
+    "longitude": 84.0333,
+    "language_code": "or",
+    "language_name": "Odia"
+  },
+  {
+    "id": "karaikal-pondicherry",
+    "name": "Karaikal",
+    "state": "Pondicherry",
+    "latitude": 10.9254,
+    "longitude": 79.838,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "mahe-pondicherry",
+    "name": "Mahe",
+    "state": "Pondicherry",
+    "latitude": 11.7,
+    "longitude": 75.54,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "pondicherry-pondicherry",
+    "name": "Pondicherry",
+    "state": "Pondicherry",
+    "latitude": 11.9139,
+    "longitude": 79.8145,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "amritsar-punjab",
+    "name": "Amritsar",
+    "state": "Punjab",
+    "latitude": 31.634,
+    "longitude": 74.8723,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "barnala-punjab",
+    "name": "Barnala",
+    "state": "Punjab",
+    "latitude": 30.3819,
+    "longitude": 75.5468,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "bathinda-punjab",
+    "name": "Bathinda",
+    "state": "Punjab",
+    "latitude": 30.211,
+    "longitude": 74.9455,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "faridkot-punjab",
+    "name": "Faridkot",
+    "state": "Punjab",
+    "latitude": 30.6667,
+    "longitude": 74.75,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "fatehgarh-sahib-punjab",
+    "name": "Fatehgarh Sahib",
+    "state": "Punjab",
+    "latitude": 30.6456,
+    "longitude": 76.3825,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "firozpur-punjab",
+    "name": "Firozpur",
+    "state": "Punjab",
+    "latitude": 30.9167,
+    "longitude": 74.6,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "gurdaspur-punjab",
+    "name": "Gurdaspur",
+    "state": "Punjab",
+    "latitude": 32.0419,
+    "longitude": 75.4053,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "hoshiarpur-punjab",
+    "name": "Hoshiarpur",
+    "state": "Punjab",
+    "latitude": 31.5322,
+    "longitude": 75.9172,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "jalandhar-punjab",
+    "name": "Jalandhar",
+    "state": "Punjab",
+    "latitude": 31.326,
+    "longitude": 75.5762,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "kapurthala-punjab",
+    "name": "Kapurthala",
+    "state": "Punjab",
+    "latitude": 31.38,
+    "longitude": 75.38,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "ludhiana-punjab",
+    "name": "Ludhiana",
+    "state": "Punjab",
+    "latitude": 30.901,
+    "longitude": 75.8573,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "mansa-punjab",
+    "name": "Mansa",
+    "state": "Punjab",
+    "latitude": 29.9833,
+    "longitude": 75.3833,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "moga-punjab",
+    "name": "Moga",
+    "state": "Punjab",
+    "latitude": 30.8165,
+    "longitude": 75.1717,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "mohali-punjab",
+    "name": "Mohali",
+    "state": "Punjab",
+    "latitude": 30.7046,
+    "longitude": 76.7179,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "muktsar-punjab",
+    "name": "Muktsar",
+    "state": "Punjab",
+    "latitude": 30.4833,
+    "longitude": 74.5167,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "nawanshahr-punjab",
+    "name": "Nawanshahr",
+    "state": "Punjab",
+    "latitude": 31.0913,
+    "longitude": 76.0392,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "patiala-punjab",
+    "name": "Patiala",
+    "state": "Punjab",
+    "latitude": 30.3398,
+    "longitude": 76.3869,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "ropar-punjab",
+    "name": "Ropar",
+    "state": "Punjab",
+    "latitude": 30.9659,
+    "longitude": 76.523,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "rupnagar-punjab",
+    "name": "Rupnagar",
+    "state": "Punjab",
+    "latitude": 30.9659,
+    "longitude": 76.523,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "sangrur-punjab",
+    "name": "Sangrur",
+    "state": "Punjab",
+    "latitude": 30.2458,
+    "longitude": 75.8421,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "tarn-taran-punjab",
+    "name": "Tarn Taran",
+    "state": "Punjab",
+    "latitude": 31.4617,
+    "longitude": 74.9267,
+    "language_code": "pa",
+    "language_name": "Punjabi"
+  },
+  {
+    "id": "ajmer-rajasthan",
+    "name": "Ajmer",
+    "state": "Rajasthan",
+    "latitude": 26.4499,
+    "longitude": 74.6399,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "alwar-rajasthan",
+    "name": "Alwar",
+    "state": "Rajasthan",
+    "latitude": 27.5609,
+    "longitude": 76.625,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "banswara-rajasthan",
+    "name": "Banswara",
+    "state": "Rajasthan",
+    "latitude": 23.55,
+    "longitude": 74.45,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "baran-rajasthan",
+    "name": "Baran",
+    "state": "Rajasthan",
+    "latitude": 25.1,
+    "longitude": 76.52,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "barmer-rajasthan",
+    "name": "Barmer",
+    "state": "Rajasthan",
+    "latitude": 25.75,
+    "longitude": 71.3833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bharatpur-rajasthan",
+    "name": "Bharatpur",
+    "state": "Rajasthan",
+    "latitude": 27.217,
+    "longitude": 77.4895,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bhilwara-rajasthan",
+    "name": "Bhilwara",
+    "state": "Rajasthan",
+    "latitude": 25.35,
+    "longitude": 74.6333,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bikaner-rajasthan",
+    "name": "Bikaner",
+    "state": "Rajasthan",
+    "latitude": 28.0167,
+    "longitude": 73.3119,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bundi-rajasthan",
+    "name": "Bundi",
+    "state": "Rajasthan",
+    "latitude": 25.4305,
+    "longitude": 75.6499,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "chittorgarh-rajasthan",
+    "name": "Chittorgarh",
+    "state": "Rajasthan",
+    "latitude": 24.8887,
+    "longitude": 74.6269,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "churu-rajasthan",
+    "name": "Churu",
+    "state": "Rajasthan",
+    "latitude": 28.3,
+    "longitude": 74.95,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dausa-rajasthan",
+    "name": "Dausa",
+    "state": "Rajasthan",
+    "latitude": 26.8833,
+    "longitude": 76.3333,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dholpur-rajasthan",
+    "name": "Dholpur",
+    "state": "Rajasthan",
+    "latitude": 26.7052,
+    "longitude": 77.8882,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dungarpur-rajasthan",
+    "name": "Dungarpur",
+    "state": "Rajasthan",
+    "latitude": 23.8417,
+    "longitude": 73.7147,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ganganagar-rajasthan",
+    "name": "Ganganagar",
+    "state": "Rajasthan",
+    "latitude": 29.9167,
+    "longitude": 73.8833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "hanumangarh-rajasthan",
+    "name": "Hanumangarh",
+    "state": "Rajasthan",
+    "latitude": 29.6224,
+    "longitude": 74.2942,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jaipur-rajasthan",
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jaisalmer-rajasthan",
+    "name": "Jaisalmer",
+    "state": "Rajasthan",
+    "latitude": 26.9157,
+    "longitude": 70.9083,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jalor-rajasthan",
+    "name": "Jalor",
+    "state": "Rajasthan",
+    "latitude": 25.3445,
+    "longitude": 72.6254,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jhalawar-rajasthan",
+    "name": "Jhalawar",
+    "state": "Rajasthan",
+    "latitude": 24.5973,
+    "longitude": 76.161,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jhujhunu-rajasthan",
+    "name": "Jhujhunu",
+    "state": "Rajasthan",
+    "latitude": 28.1333,
+    "longitude": 75.4,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jodhpur-rajasthan",
+    "name": "Jodhpur",
+    "state": "Rajasthan",
+    "latitude": 26.2389,
+    "longitude": 73.0243,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "karauli-rajasthan",
+    "name": "Karauli",
+    "state": "Rajasthan",
+    "latitude": 26.4883,
+    "longitude": 77.0161,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kota-rajasthan",
+    "name": "Kota",
+    "state": "Rajasthan",
+    "latitude": 25.2138,
+    "longitude": 75.8648,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "nagaur-rajasthan",
+    "name": "Nagaur",
+    "state": "Rajasthan",
+    "latitude": 27.1991,
+    "longitude": 73.7409,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "pali-rajasthan",
+    "name": "Pali",
+    "state": "Rajasthan",
+    "latitude": 25.7711,
+    "longitude": 73.3234,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "rajsamand-rajasthan",
+    "name": "Rajsamand",
+    "state": "Rajasthan",
+    "latitude": 25.0667,
+    "longitude": 73.8833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sawai-madhopur-rajasthan",
+    "name": "Sawai Madhopur",
+    "state": "Rajasthan",
+    "latitude": 25.9833,
+    "longitude": 76.3667,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sikar-rajasthan",
+    "name": "Sikar",
+    "state": "Rajasthan",
+    "latitude": 27.6094,
+    "longitude": 75.1399,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sirohi-rajasthan",
+    "name": "Sirohi",
+    "state": "Rajasthan",
+    "latitude": 24.8852,
+    "longitude": 72.8575,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "tonk-rajasthan",
+    "name": "Tonk",
+    "state": "Rajasthan",
+    "latitude": 26.1667,
+    "longitude": 75.7833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "udaipur-rajasthan",
+    "name": "Udaipur",
+    "state": "Rajasthan",
+    "latitude": 24.58,
+    "longitude": 73.68,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "east-sikkim-sikkim",
+    "name": "East Sikkim",
+    "state": "Sikkim",
+    "latitude": 27.3084,
+    "longitude": 88.6724,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "north-sikkim-sikkim",
+    "name": "North Sikkim",
+    "state": "Sikkim",
+    "latitude": 27.8236,
+    "longitude": 88.5565,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "south-sikkim-sikkim",
+    "name": "South Sikkim",
+    "state": "Sikkim",
+    "latitude": 27.2858,
+    "longitude": 88.3946,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "west-sikkim-sikkim",
+    "name": "West Sikkim",
+    "state": "Sikkim",
+    "latitude": 27.3032,
+    "longitude": 88.2072,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ariyalur-tamil-nadu",
+    "name": "Ariyalur",
+    "state": "Tamil Nadu",
+    "latitude": 11.1333,
+    "longitude": 79.0833,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "chennai-tamil-nadu",
+    "name": "Chennai",
+    "state": "Tamil Nadu",
+    "latitude": 13.0524,
+    "longitude": 80.2508,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "coimbatore-tamil-nadu",
+    "name": "Coimbatore",
+    "state": "Tamil Nadu",
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "cuddalore-tamil-nadu",
+    "name": "Cuddalore",
+    "state": "Tamil Nadu",
+    "latitude": 11.75,
+    "longitude": 79.75,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "dharmapuri-tamil-nadu",
+    "name": "Dharmapuri",
+    "state": "Tamil Nadu",
+    "latitude": 12.1016,
+    "longitude": 78.1346,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "dindigul-tamil-nadu",
+    "name": "Dindigul",
+    "state": "Tamil Nadu",
+    "latitude": 10.3673,
+    "longitude": 77.9803,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "erode-tamil-nadu",
+    "name": "Erode",
+    "state": "Tamil Nadu",
+    "latitude": 11.35,
+    "longitude": 77.7333,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "kanchipuram-tamil-nadu",
+    "name": "Kanchipuram",
+    "state": "Tamil Nadu",
+    "latitude": 12.8342,
+    "longitude": 79.7036,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "kanyakumari-tamil-nadu",
+    "name": "Kanyakumari",
+    "state": "Tamil Nadu",
+    "latitude": 8.0883,
+    "longitude": 77.5385,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "karur-tamil-nadu",
+    "name": "Karur",
+    "state": "Tamil Nadu",
+    "latitude": 10.95,
+    "longitude": 78.0833,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "krishnagiri-tamil-nadu",
+    "name": "Krishnagiri",
+    "state": "Tamil Nadu",
+    "latitude": 12.5186,
+    "longitude": 78.2137,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "madurai-tamil-nadu",
+    "name": "Madurai",
+    "state": "Tamil Nadu",
+    "latitude": 9.9252,
+    "longitude": 78.1198,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "nagapattinam-tamil-nadu",
+    "name": "Nagapattinam",
+    "state": "Tamil Nadu",
+    "latitude": 10.7688,
+    "longitude": 79.8394,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "namakkal-tamil-nadu",
+    "name": "Namakkal",
+    "state": "Tamil Nadu",
+    "latitude": 11.2194,
+    "longitude": 78.1677,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "nilgiris-tamil-nadu",
+    "name": "Nilgiris",
+    "state": "Tamil Nadu",
+    "latitude": 11.4916,
+    "longitude": 76.7337,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "perambalur-tamil-nadu",
+    "name": "Perambalur",
+    "state": "Tamil Nadu",
+    "latitude": 11.2333,
+    "longitude": 78.8833,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "pudukkottai-tamil-nadu",
+    "name": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "latitude": 10.3797,
+    "longitude": 78.8208,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "ramanathapuram-tamil-nadu",
+    "name": "Ramanathapuram",
+    "state": "Tamil Nadu",
+    "latitude": 10.9975,
+    "longitude": 76.9916,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "salem-tamil-nadu",
+    "name": "Salem",
+    "state": "Tamil Nadu",
+    "latitude": 11.6643,
+    "longitude": 78.146,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "sivaganga-tamil-nadu",
+    "name": "Sivaganga",
+    "state": "Tamil Nadu",
+    "latitude": 9.8667,
+    "longitude": 78.4833,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "thanjavur-tamil-nadu",
+    "name": "Thanjavur",
+    "state": "Tamil Nadu",
+    "latitude": 10.787,
+    "longitude": 79.1378,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "theni-tamil-nadu",
+    "name": "Theni",
+    "state": "Tamil Nadu",
+    "latitude": 10.0104,
+    "longitude": 77.4768,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "tiruchirappalli-tamil-nadu",
+    "name": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "latitude": 10.7905,
+    "longitude": 78.7047,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "tirunelveli-tamil-nadu",
+    "name": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "latitude": 8.733,
+    "longitude": 77.7,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "tiruvallur-tamil-nadu",
+    "name": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "latitude": 13.15,
+    "longitude": 79.9167,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "tiruvannamalai-tamil-nadu",
+    "name": "Tiruvannamalai",
+    "state": "Tamil Nadu",
+    "latitude": 12.2253,
+    "longitude": 79.0747,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "tiruvarur-tamil-nadu",
+    "name": "Tiruvarur",
+    "state": "Tamil Nadu",
+    "latitude": 10.7713,
+    "longitude": 79.637,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "tuticorin-tamil-nadu",
+    "name": "Tuticorin",
+    "state": "Tamil Nadu",
+    "latitude": 8.7642,
+    "longitude": 78.1348,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "vellore-tamil-nadu",
+    "name": "Vellore",
+    "state": "Tamil Nadu",
+    "latitude": 12.9165,
+    "longitude": 79.1325,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "villupuram-tamil-nadu",
+    "name": "Villupuram",
+    "state": "Tamil Nadu",
+    "latitude": 11.942,
+    "longitude": 79.499,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "virudhunagar-tamil-nadu",
+    "name": "Virudhunagar",
+    "state": "Tamil Nadu",
+    "latitude": 9.6,
+    "longitude": 77.9667,
+    "language_code": "ta",
+    "language_name": "Tamil"
+  },
+  {
+    "id": "dhalai-tripura",
+    "name": "Dhalai",
+    "state": "Tripura",
+    "latitude": 23.8467,
+    "longitude": 91.9099,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "north-tripura-tripura",
+    "name": "North Tripura",
+    "state": "Tripura",
+    "latitude": 24.0797,
+    "longitude": 92.263,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "south-tripura-tripura",
+    "name": "South Tripura",
+    "state": "Tripura",
+    "latitude": 23.2317,
+    "longitude": 91.5596,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "west-tripura-tripura",
+    "name": "West Tripura",
+    "state": "Tripura",
+    "latitude": 23.8997,
+    "longitude": 91.4048,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "agra-uttar-pradesh",
+    "name": "Agra",
+    "state": "Uttar Pradesh",
+    "latitude": 27.1767,
+    "longitude": 78.0081,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "aligarh-uttar-pradesh",
+    "name": "Aligarh",
+    "state": "Uttar Pradesh",
+    "latitude": 27.8938,
+    "longitude": 78.0681,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "allahabad-uttar-pradesh",
+    "name": "Allahabad",
+    "state": "Uttar Pradesh",
+    "latitude": 25.4358,
+    "longitude": 81.8463,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ambedkar-nagar-uttar-pradesh",
+    "name": "Ambedkar Nagar",
+    "state": "Uttar Pradesh",
+    "latitude": 26.4684,
+    "longitude": 82.6915,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "auraiya-uttar-pradesh",
+    "name": "Auraiya",
+    "state": "Uttar Pradesh",
+    "latitude": 26.4667,
+    "longitude": 79.5167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "azamgarh-uttar-pradesh",
+    "name": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "latitude": 26.0737,
+    "longitude": 83.1859,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bagpat-uttar-pradesh",
+    "name": "Bagpat",
+    "state": "Uttar Pradesh",
+    "latitude": 28.95,
+    "longitude": 77.2167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bahraich-uttar-pradesh",
+    "name": "Bahraich",
+    "state": "Uttar Pradesh",
+    "latitude": 27.5833,
+    "longitude": 81.6,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ballia-uttar-pradesh",
+    "name": "Ballia",
+    "state": "Uttar Pradesh",
+    "latitude": 25.7584,
+    "longitude": 84.1487,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "balrampur-uttar-pradesh",
+    "name": "Balrampur",
+    "state": "Uttar Pradesh",
+    "latitude": 27.4333,
+    "longitude": 82.1833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "banda-uttar-pradesh",
+    "name": "Banda",
+    "state": "Uttar Pradesh",
+    "latitude": 25.4833,
+    "longitude": 80.3333,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "barabanki-uttar-pradesh",
+    "name": "Barabanki",
+    "state": "Uttar Pradesh",
+    "latitude": 26.9167,
+    "longitude": 81.2,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bareilly-uttar-pradesh",
+    "name": "Bareilly",
+    "state": "Uttar Pradesh",
+    "latitude": 28.367,
+    "longitude": 79.4304,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "basti-uttar-pradesh",
+    "name": "Basti",
+    "state": "Uttar Pradesh",
+    "latitude": 26.8177,
+    "longitude": 82.7633,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bijnor-uttar-pradesh",
+    "name": "Bijnor",
+    "state": "Uttar Pradesh",
+    "latitude": 29.3724,
+    "longitude": 78.1358,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "budaun-uttar-pradesh",
+    "name": "Budaun",
+    "state": "Uttar Pradesh",
+    "latitude": 28.0337,
+    "longitude": 79.1205,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bulandshahr-uttar-pradesh",
+    "name": "Bulandshahr",
+    "state": "Uttar Pradesh",
+    "latitude": 28.407,
+    "longitude": 77.8498,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "chandauli-uttar-pradesh",
+    "name": "Chandauli",
+    "state": "Uttar Pradesh",
+    "latitude": 25.2667,
+    "longitude": 83.2667,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "chitrakoot-uttar-pradesh",
+    "name": "Chitrakoot",
+    "state": "Uttar Pradesh",
+    "latitude": 25.1788,
+    "longitude": 80.8655,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "deoria-uttar-pradesh",
+    "name": "Deoria",
+    "state": "Uttar Pradesh",
+    "latitude": 26.5047,
+    "longitude": 83.7872,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "etah-uttar-pradesh",
+    "name": "Etah",
+    "state": "Uttar Pradesh",
+    "latitude": 27.5588,
+    "longitude": 78.6626,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "etawah-uttar-pradesh",
+    "name": "Etawah",
+    "state": "Uttar Pradesh",
+    "latitude": 26.8117,
+    "longitude": 79.0047,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "faizabad-uttar-pradesh",
+    "name": "Faizabad",
+    "state": "Uttar Pradesh",
+    "latitude": 26.78,
+    "longitude": 82.13,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "farrukhabad-uttar-pradesh",
+    "name": "Farrukhabad",
+    "state": "Uttar Pradesh",
+    "latitude": 27.3826,
+    "longitude": 79.5941,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "fatehpur-uttar-pradesh",
+    "name": "Fatehpur",
+    "state": "Uttar Pradesh",
+    "latitude": 25.9333,
+    "longitude": 80.8,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "firozabad-uttar-pradesh",
+    "name": "Firozabad",
+    "state": "Uttar Pradesh",
+    "latitude": 27.1591,
+    "longitude": 78.3958,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "gautam-buddha-nagar-uttar-pradesh",
+    "name": "Gautam Buddha Nagar",
+    "state": "Uttar Pradesh",
+    "latitude": 28.359,
+    "longitude": 77.5508,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ghaziabad-uttar-pradesh",
+    "name": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "latitude": 28.6692,
+    "longitude": 77.4538,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "ghazipur-uttar-pradesh",
+    "name": "Ghazipur",
+    "state": "Uttar Pradesh",
+    "latitude": 25.584,
+    "longitude": 83.577,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "gonda-uttar-pradesh",
+    "name": "Gonda",
+    "state": "Uttar Pradesh",
+    "latitude": 27.134,
+    "longitude": 81.9619,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "gorakhpur-uttar-pradesh",
+    "name": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.7606,
+    "longitude": 83.3732,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "hamirpur-uttar-pradesh",
+    "name": "Hamirpur",
+    "state": "Uttar Pradesh",
+    "latitude": 25.95,
+    "longitude": 80.15,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "hardoi-uttar-pradesh",
+    "name": "Hardoi",
+    "state": "Uttar Pradesh",
+    "latitude": 27.3946,
+    "longitude": 80.1299,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "hathras-uttar-pradesh",
+    "name": "Hathras",
+    "state": "Uttar Pradesh",
+    "latitude": 27.6,
+    "longitude": 78.05,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jalaun-uttar-pradesh",
+    "name": "Jalaun",
+    "state": "Uttar Pradesh",
+    "latitude": 26.1451,
+    "longitude": 79.3366,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jaunpur-uttar-pradesh",
+    "name": "Jaunpur",
+    "state": "Uttar Pradesh",
+    "latitude": 25.749,
+    "longitude": 82.6987,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jhansi-uttar-pradesh",
+    "name": "Jhansi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.4441,
+    "longitude": 78.5676,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "jyotiba-phule-nagar-uttar-pradesh",
+    "name": "Jyotiba Phule Nagar",
+    "state": "Uttar Pradesh",
+    "latitude": 28.7716,
+    "longitude": 78.3387,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kannauj-uttar-pradesh",
+    "name": "Kannauj",
+    "state": "Uttar Pradesh",
+    "latitude": 27.0552,
+    "longitude": 79.9181,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kanpur-dehat-uttar-pradesh",
+    "name": "Kanpur Dehat",
+    "state": "Uttar Pradesh",
+    "latitude": 26.5267,
+    "longitude": 79.8297,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kanpur-nagar-uttar-pradesh",
+    "name": "Kanpur Nagar",
+    "state": "Uttar Pradesh",
+    "latitude": 26.4148,
+    "longitude": 80.2321,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kaushambi-uttar-pradesh",
+    "name": "Kaushambi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.3611,
+    "longitude": 81.4032,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kheri-uttar-pradesh",
+    "name": "Kheri",
+    "state": "Uttar Pradesh",
+    "latitude": 28.1651,
+    "longitude": 80.6327,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "kushinagar-uttar-pradesh",
+    "name": "Kushinagar",
+    "state": "Uttar Pradesh",
+    "latitude": 26.7394,
+    "longitude": 83.89,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "lalitpur-uttar-pradesh",
+    "name": "Lalitpur",
+    "state": "Uttar Pradesh",
+    "latitude": 24.6833,
+    "longitude": 78.4167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "lucknow-uttar-pradesh",
+    "name": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.8465,
+    "longitude": 80.9467,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "maharajganj-uttar-pradesh",
+    "name": "Maharajganj",
+    "state": "Uttar Pradesh",
+    "latitude": 27.1446,
+    "longitude": 83.5622,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mahoba-uttar-pradesh",
+    "name": "Mahoba",
+    "state": "Uttar Pradesh",
+    "latitude": 25.2921,
+    "longitude": 79.8724,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mainpuri-uttar-pradesh",
+    "name": "Mainpuri",
+    "state": "Uttar Pradesh",
+    "latitude": 27.2333,
+    "longitude": 79.0167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mathura-uttar-pradesh",
+    "name": "Mathura",
+    "state": "Uttar Pradesh",
+    "latitude": 27.4924,
+    "longitude": 77.6737,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mau-uttar-pradesh",
+    "name": "Mau",
+    "state": "Uttar Pradesh",
+    "latitude": 25.9496,
+    "longitude": 83.5586,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "meerut-uttar-pradesh",
+    "name": "Meerut",
+    "state": "Uttar Pradesh",
+    "latitude": 28.9845,
+    "longitude": 77.7064,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "mirzapur-uttar-pradesh",
+    "name": "Mirzapur",
+    "state": "Uttar Pradesh",
+    "latitude": 25.1337,
+    "longitude": 82.5644,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "moradabad-uttar-pradesh",
+    "name": "Moradabad",
+    "state": "Uttar Pradesh",
+    "latitude": 28.8316,
+    "longitude": 78.7783,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "muzaffarnagar-uttar-pradesh",
+    "name": "Muzaffarnagar",
+    "state": "Uttar Pradesh",
+    "latitude": 29.4727,
+    "longitude": 77.7085,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "pilibhit-uttar-pradesh",
+    "name": "Pilibhit",
+    "state": "Uttar Pradesh",
+    "latitude": 28.6333,
+    "longitude": 79.8,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "pratapgarh-uttar-pradesh",
+    "name": "Pratapgarh",
+    "state": "Uttar Pradesh",
+    "latitude": 25.9026,
+    "longitude": 81.7787,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "raebareli-uttar-pradesh",
+    "name": "Raebareli",
+    "state": "Uttar Pradesh",
+    "latitude": 26.2333,
+    "longitude": 81.2333,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "rampur-uttar-pradesh",
+    "name": "Rampur",
+    "state": "Uttar Pradesh",
+    "latitude": 28.7893,
+    "longitude": 79.025,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "saharanpur-uttar-pradesh",
+    "name": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 29.9667,
+    "longitude": 77.55,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sant-kabir-nagar-uttar-pradesh",
+    "name": "Sant Kabir Nagar",
+    "state": "Uttar Pradesh",
+    "latitude": 26.7672,
+    "longitude": 83.0361,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sant-ravidas-nagar-uttar-pradesh",
+    "name": "Sant Ravidas Nagar",
+    "state": "Uttar Pradesh",
+    "latitude": 25.3264,
+    "longitude": 82.4319,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "shahjahanpur-uttar-pradesh",
+    "name": "Shahjahanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 27.8833,
+    "longitude": 79.9167,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "shrawasti-uttar-pradesh",
+    "name": "Shrawasti",
+    "state": "Uttar Pradesh",
+    "latitude": 27.5978,
+    "longitude": 81.9535,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "siddharthnagar-uttar-pradesh",
+    "name": "Siddharthnagar",
+    "state": "Uttar Pradesh",
+    "latitude": 27.2716,
+    "longitude": 82.821,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sitapur-uttar-pradesh",
+    "name": "Sitapur",
+    "state": "Uttar Pradesh",
+    "latitude": 27.5839,
+    "longitude": 80.6664,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sonbhadra-uttar-pradesh",
+    "name": "Sonbhadra",
+    "state": "Uttar Pradesh",
+    "latitude": 24.457,
+    "longitude": 82.9932,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "sultanpur-uttar-pradesh",
+    "name": "Sultanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.2648,
+    "longitude": 82.0727,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "unnao-uttar-pradesh",
+    "name": "Unnao",
+    "state": "Uttar Pradesh",
+    "latitude": 26.5333,
+    "longitude": 80.5,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "varanasi-uttar-pradesh",
+    "name": "Varanasi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.3176,
+    "longitude": 82.9739,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "almora-uttarakhand",
+    "name": "Almora",
+    "state": "Uttarakhand",
+    "latitude": 29.5892,
+    "longitude": 79.6467,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bageshwar-uttarakhand",
+    "name": "Bageshwar",
+    "state": "Uttarakhand",
+    "latitude": 29.8395,
+    "longitude": 79.7764,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "chamoli-uttarakhand",
+    "name": "Chamoli",
+    "state": "Uttarakhand",
+    "latitude": 30.4041,
+    "longitude": 79.3318,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "champawat-uttarakhand",
+    "name": "Champawat",
+    "state": "Uttarakhand",
+    "latitude": 29.3361,
+    "longitude": 80.091,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "dehradun-uttarakhand",
+    "name": "Dehradun",
+    "state": "Uttarakhand",
+    "latitude": 30.3165,
+    "longitude": 78.0322,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "haridwar-uttarakhand",
+    "name": "Haridwar",
+    "state": "Uttarakhand",
+    "latitude": 29.9457,
+    "longitude": 78.1642,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "nainital-uttarakhand",
+    "name": "Nainital",
+    "state": "Uttarakhand",
+    "latitude": 29.3803,
+    "longitude": 79.4636,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "pauri-garhwal-uttarakhand",
+    "name": "Pauri Garhwal",
+    "state": "Uttarakhand",
+    "latitude": 29.8688,
+    "longitude": 78.8383,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "pithoragarh-uttarakhand",
+    "name": "Pithoragarh",
+    "state": "Uttarakhand",
+    "latitude": 29.5829,
+    "longitude": 80.2182,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "rudraprayag-uttarakhand",
+    "name": "Rudraprayag",
+    "state": "Uttarakhand",
+    "latitude": 30.2833,
+    "longitude": 78.9833,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "tehri-garhwal-uttarakhand",
+    "name": "Tehri Garhwal",
+    "state": "Uttarakhand",
+    "latitude": 30.3012,
+    "longitude": 78.5661,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "udham-singh-nagar-uttarakhand",
+    "name": "Udham Singh Nagar",
+    "state": "Uttarakhand",
+    "latitude": 28.961,
+    "longitude": 79.5154,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "uttarkashi-uttarakhand",
+    "name": "Uttarkashi",
+    "state": "Uttarakhand",
+    "latitude": 30.7333,
+    "longitude": 78.45,
+    "language_code": "hi",
+    "language_name": "Hindi"
+  },
+  {
+    "id": "bankura-west-bengal",
+    "name": "Bankura",
+    "state": "West Bengal",
+    "latitude": 23.2372,
+    "longitude": 87.0652,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "bardhaman-west-bengal",
+    "name": "Bardhaman",
+    "state": "West Bengal",
+    "latitude": 23.2324,
+    "longitude": 87.8615,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "birbhum-west-bengal",
+    "name": "Birbhum",
+    "state": "West Bengal",
+    "latitude": 24.3575,
+    "longitude": 87.8427,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "cooch-behar-west-bengal",
+    "name": "Cooch Behar",
+    "state": "West Bengal",
+    "latitude": 26.3242,
+    "longitude": 89.451,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "darjiling-west-bengal",
+    "name": "Darjiling",
+    "state": "West Bengal",
+    "latitude": 27.036,
+    "longitude": 88.2627,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "east-midnapore-west-bengal",
+    "name": "East Midnapore",
+    "state": "West Bengal",
+    "latitude": 21.9373,
+    "longitude": 87.7763,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "hooghly-west-bengal",
+    "name": "Hooghly",
+    "state": "West Bengal",
+    "latitude": 22.8956,
+    "longitude": 88.4025,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "howrah-west-bengal",
+    "name": "Howrah",
+    "state": "West Bengal",
+    "latitude": 22.5958,
+    "longitude": 88.2636,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "jalpaiguri-west-bengal",
+    "name": "Jalpaiguri",
+    "state": "West Bengal",
+    "latitude": 26.5167,
+    "longitude": 88.7333,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "kolkata-west-bengal",
+    "name": "Kolkata",
+    "state": "West Bengal",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "malda-west-bengal",
+    "name": "Malda",
+    "state": "West Bengal",
+    "latitude": 25.0108,
+    "longitude": 88.1411,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "medinipur-west-bengal",
+    "name": "Medinipur",
+    "state": "West Bengal",
+    "latitude": 22.4333,
+    "longitude": 87.3333,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "murshidabad-west-bengal",
+    "name": "Murshidabad",
+    "state": "West Bengal",
+    "latitude": 24.1759,
+    "longitude": 88.2802,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "nadia-west-bengal",
+    "name": "Nadia",
+    "state": "West Bengal",
+    "latitude": 22.7059,
+    "longitude": 88.753,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "north-24-parganas-west-bengal",
+    "name": "North 24 Parganas",
+    "state": "West Bengal",
+    "latitude": 22.71,
+    "longitude": 88.7109,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "north-dinajpur-west-bengal",
+    "name": "North Dinajpur",
+    "state": "West Bengal",
+    "latitude": 25.981,
+    "longitude": 88.051,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "puruliya-west-bengal",
+    "name": "Puruliya",
+    "state": "West Bengal",
+    "latitude": 23.3321,
+    "longitude": 86.3652,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "south-24-parganas-west-bengal",
+    "name": "South 24 Parganas",
+    "state": "West Bengal",
+    "latitude": 22.1352,
+    "longitude": 88.4016,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "south-dinajpur-west-bengal",
+    "name": "South Dinajpur",
+    "state": "West Bengal",
+    "latitude": 25.3715,
+    "longitude": 88.5565,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  },
+  {
+    "id": "west-midnapore-west-bengal",
+    "name": "West Midnapore",
+    "state": "West Bengal",
+    "latitude": 22.408,
+    "longitude": 87.3811,
+    "language_code": "bn",
+    "language_name": "Bengali"
+  }
+]
