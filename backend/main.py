@@ -3,10 +3,12 @@ from __future__ import annotations
 import asyncio
 from typing import Any
 
-from fastapi import FastAPI, HTTPException, Query
+import httpx
+from fastapi import FastAPI, HTTPException, Query, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 
 from services.advisory import enrich_forecast_with_advisories
+from services.farmer_brief import fetch_local_farmer_brief, fetch_local_farmer_brief_from_ip
 from services.translation import translate_forecast_entry
 from services.weather import (
     BATCH_SIZE,
@@ -78,6 +80,42 @@ async def list_districts(
 @app.get("/api/states")
 async def list_states() -> list[str]:
     return sorted({d["state"] for d in load_districts()})
+
+
+def _no_cache_headers() -> dict[str, str]:
+    return {
+        "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
+        "Pragma": "no-cache",
+    }
+
+
+def _client_ip(request: Request) -> str | None:
+    forwarded = request.headers.get("x-forwarded-for")
+    if forwarded:
+        return forwarded.split(",")[0].strip()
+    if request.client:
+        return request.client.host
+    return None
+
+
+@app.get("/api/local-forecast")
+async def local_forecast(
+    request: Request,
+    response: Response,
+    lat: float | None = Query(None, ge=-90, le=90),
+    lon: float | None = Query(None, ge=-180, le=180),
+) -> dict[str, Any]:
+    for key, value in _no_cache_headers().items():
+        response.headers[key] = value
+
+    try:
+        if lat is not None and lon is not None:
+            return await fetch_local_farmer_brief(lat, lon, location_method="gps")
+        return await fetch_local_farmer_brief_from_ip(_client_ip(request))
+    except httpx.HTTPError as exc:
+        raise HTTPException(status_code=502, detail="Weather service unavailable") from exc
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
 
 
 @app.get("/api/forecasts/{district_id}")

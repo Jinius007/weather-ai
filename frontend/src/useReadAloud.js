@@ -18,36 +18,27 @@ function pickVoice(langCode) {
   if (!('speechSynthesis' in window)) return null
   const target = LANG_VOICE_MAP[langCode] || 'hi-IN'
   const voices = window.speechSynthesis.getVoices()
-  const exact = voices.find((v) => v.lang === target)
-  if (exact) return exact
-  const prefix = voices.find((v) => v.lang.startsWith(target.split('-')[0]))
-  if (prefix) return prefix
-  return voices.find((v) => v.lang.startsWith('hi')) || voices[0] || null
-}
-
-export function buildReadAloudText(item, activeTerm) {
-  const forecast = item?.forecasts?.[activeTerm]
-  if (!forecast) return ''
-
-  const parts = [forecast.message_local]
-  for (const adv of Object.values(forecast.advisories || {})) {
-    if (adv.message_local) parts.push(adv.message_local)
-  }
-  return parts.filter(Boolean).join('. ')
+  return (
+    voices.find((v) => v.lang === target)
+    || voices.find((v) => v.lang.startsWith(target.split('-')[0]))
+    || voices.find((v) => v.lang.startsWith('hi'))
+    || voices[0]
+    || null
+  )
 }
 
 export function useReadAloud() {
-  const [speakingId, setSpeakingId] = useState(null)
+  const [isSpeaking, setIsSpeaking] = useState(false)
   const [supported] = useState(() => typeof window !== 'undefined' && 'speechSynthesis' in window)
 
   const stop = useCallback(() => {
     if (!supported) return
     window.speechSynthesis.cancel()
-    setSpeakingId(null)
+    setIsSpeaking(false)
   }, [supported])
 
   const speak = useCallback(
-    (cardId, text, langCode) => {
+    (text, langCode) => {
       if (!supported || !text?.trim()) return
 
       window.speechSynthesis.cancel()
@@ -60,13 +51,13 @@ export function useReadAloud() {
       } else {
         utterance.lang = LANG_VOICE_MAP[langCode] || 'hi-IN'
       }
-      utterance.rate = 0.9
+      utterance.rate = 0.88
       utterance.pitch = 1
 
-      utterance.onend = () => setSpeakingId(null)
-      utterance.onerror = () => setSpeakingId(null)
+      utterance.onend = () => setIsSpeaking(false)
+      utterance.onerror = () => setIsSpeaking(false)
 
-      setSpeakingId(cardId)
+      setIsSpeaking(true)
       window.speechSynthesis.speak(utterance)
     },
     [supported],
@@ -74,10 +65,7 @@ export function useReadAloud() {
 
   useEffect(() => {
     if (!supported) return undefined
-
-    const loadVoices = () => {
-      window.speechSynthesis.getVoices()
-    }
+    const loadVoices = () => window.speechSynthesis.getVoices()
     loadVoices()
     window.speechSynthesis.addEventListener('voiceschanged', loadVoices)
     return () => {
@@ -86,5 +74,5 @@ export function useReadAloud() {
     }
   }, [supported])
 
-  return { supported, speakingId, speak, stop }
+  return { supported, isSpeaking, speak, stop }
 }
