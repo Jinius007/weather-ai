@@ -180,7 +180,7 @@ export default function App() {
     setRefreshing(true)
     setError('')
     try {
-      const params = new URLSearchParams({ limit: '200' })
+      const params = new URLSearchParams({ limit: '50' })
       if (stateFilter) params.set('state', stateFilter)
       await api(`/api/forecasts/refresh?${params}`, { method: 'POST' })
       await loadForecasts()

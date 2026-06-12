@@ -39,25 +39,24 @@ npm run dev
 
 Open **http://localhost:5173**
 
-## Deploy on Vercel (frontend)
+## Deploy on Vercel (frontend + API)
 
-1. Push this repo to GitHub (see below).
-2. In [Vercel](https://vercel.com), import the repository.
-3. Set **Root Directory** to `frontend`.
-4. Build settings (auto-detected): `npm run build`, output `dist`.
-5. Deploy the **backend** separately (Render, Railway, Fly.io, etc.) and expose it over HTTPS.
-6. In Vercel → Project → Settings → Environment Variables, add:
-   - `VITE_API_BASE` = your backend URL (e.g. `https://krishi-mausam-api.onrender.com`) — no trailing slash.
+This repo is configured for a **single Vercel project** — React frontend and FastAPI backend (via serverless function).
 
-The frontend calls `${VITE_API_BASE}/api/...` in production. Local dev uses the Vite proxy when `VITE_API_BASE` is empty.
+1. Import [github.com/Jinius007/weather-ai](https://github.com/Jinius007/weather-ai) on Vercel.
+2. Leave **Root Directory** empty (repo root). Vercel reads `vercel.json` at the root.
+3. Deploy. No `VITE_API_BASE` is needed — the UI calls `/api/...` on the same domain.
 
-### Backend on Render (example)
+Optional: set `VITE_API_BASE` only if the API is hosted on a different domain.
 
-- Root directory: `backend`
-- Build: `pip install -r requirements.txt`
-- Start: `uvicorn main:app --host 0.0.0.0 --port $PORT`
-- Ensure `districts.json` exists (run `python scripts/build_districts.py` once locally and commit, or add a build step).
+### Local production preview
 
+```powershell
+cd frontend
+npm install
+npm run build
+npx vercel dev
+```
 ## API overview
 
 | Endpoint | Description |
