@@ -85,29 +85,69 @@ for code in ("kn", "ml", "gu", "pa", "or", "as"):
         BRIEF_TEMPLATES[code] = BRIEF_TEMPLATES["hi"]
 
 
-def _negative_warnings(
-    rain: float, t_max: float, t_min: float, wind: float, rain_prob: float, weather: str
-) -> list[str]:
-    warnings: list[str] = []
-    w = weather.lower()
-    heavy_rain = rain >= 15 or "heavy" in w or "thunder" in w or rain_prob >= 70
-    light_rain = 3 <= rain < 15 or "drizzle" in w or "rain" in w
-    dry_hot = rain < 3 and t_max >= 36
-    windy = wind >= 35
+# WMO weather code groups (Open-Meteo)
+_THUNDERSTORM_CODES = {95, 96, 99}
+_HEAVY_RAIN_CODES = {65, 67, 75, 82, 99}
+_MODERATE_RAIN_CODES = {53, 55, 63, 73, 81}
+_WET_WEATHER_CODES = {51, 53, 55, 61, 63, 65, 66, 67, 80, 81, 82, 95, 96, 99}
 
-    if heavy_rain:
-        warnings.extend(["sowing", "harvest", "fertilizer", "pesticide", "irrigation"])
-    elif light_rain:
-        warnings.extend(["pesticide", "fertilizer", "harvest"])
-        if rain >= 8:
-            warnings.append("sowing")
-    elif dry_hot:
-        warnings.extend(["sowing", "pesticide"])
+
+def _negative_warnings(
+    rain: float,
+    t_max: float,
+    t_min: float,
+    wind: float,
+    rain_prob: float,
+    weather_codes: list[int],
+) -> list[str]:
+    """Return only the activities that are risky for this specific forecast."""
+    warnings: list[str] = []
+    codes = set(weather_codes or [0])
+
+    has_thunder = bool(codes & _THUNDERSTORM_CODES)
+    has_heavy_rain = rain >= 15 or bool(codes & _HEAVY_RAIN_CODES) or has_thunder
+    has_moderate_rain = rain >= 5 or bool(codes & _MODERATE_RAIN_CODES)
+    has_wet_spell = rain >= 1 or bool(codes & _WET_WEATHER_CODES)
+    rain_expected = rain_prob >= 55 or (rain_prob >= 40 and has_wet_spell)
+
+    windy = wind >= 35
+    very_hot = t_max >= 40
+
+    # Sowing — avoid only when rain will wash seeds or waterlog the field.
+    if has_heavy_rain or has_thunder:
+        warnings.append("sowing")
+    elif has_moderate_rain and rain >= 10:
+        warnings.append("sowing")
+
+    # Harvest — avoid when fields are too wet or storms are expected.
+    if has_heavy_rain or has_thunder:
+        warnings.append("harvest")
+    elif has_moderate_rain and rain >= 12:
+        warnings.append("harvest")
+
+    # Fertilizer — avoid when rain will wash nutrients away.
+    if has_heavy_rain or has_thunder:
+        warnings.append("fertilizer")
+    elif has_moderate_rain:
+        warnings.append("fertilizer")
+    elif rain_expected and rain >= 3:
+        warnings.append("fertilizer")
+
+    # Pesticide — needs dry, calm, moderate temperature.
+    if has_heavy_rain or has_thunder or has_moderate_rain:
+        warnings.append("pesticide")
+    elif has_wet_spell and rain_expected:
+        warnings.append("pesticide")
     elif windy:
         warnings.append("pesticide")
-
-    if t_max >= 40 and "pesticide" not in warnings:
+    elif very_hot:
         warnings.append("pesticide")
+
+    # Irrigation — warn only when enough rain is already coming; not during dry spells.
+    if has_heavy_rain or has_thunder:
+        warnings.append("irrigation")
+    elif rain >= 12 and rain_expected:
+        warnings.append("irrigation")
 
     seen: set[str] = set()
     unique: list[str] = []
@@ -157,7 +197,7 @@ def build_farmer_brief(district: dict[str, Any], daily: dict[str, Any]) -> dict[
     outlook = templates[outlook_key].format(area=area)
     numbers = templates["numbers"].format(tmax=tmax, tmin=tmin, rain=total_rain)
 
-    warning_keys = _negative_warnings(total_rain, tmax, tmin, max_wind, max_prob, dominant)
+    warning_keys = _negative_warnings(total_rain, tmax, tmin, max_wind, max_prob, codes[:2])
     warning_lines = [templates[f"warn_{k}"] for k in warning_keys if f"warn_{k}" in templates]
 
     parts = [outlook, numbers]
