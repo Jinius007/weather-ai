@@ -29,11 +29,17 @@ body {
   padding: 1.5rem;
 }
 
-.center-block,
-.brief-block {
+.center-block {
   width: 100%;
   max-width: 520px;
   text-align: center;
+}
+
+.brief-block,
+.status-block {
+  width: 100%;
+  text-align: center;
+  margin-top: 1.25rem;
 }
 
 .pulse-icon {
@@ -106,4 +112,64 @@ body {
 .error-text {
   color: #b00020;
   line-height: 1.6;
+}
+
+.location-picker {
+  text-align: left;
+  background: #fff;
+  border-radius: 16px;
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 4px 20px rgba(45, 106, 79, 0.1);
+  border: 1px solid rgba(45, 106, 79, 0.12);
+}
+
+.location-picker-title {
+  margin: 0 0 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.field-label {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 0.35rem;
+}
+
+.location-select {
+  width: 100%;
+  padding: 0.65rem 0.75rem;
+  margin-bottom: 0.85rem;
+  border: 1px solid rgba(45, 106, 79, 0.25);
+  border-radius: 10px;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 1rem;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.location-select:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.detect-btn {
+  width: 100%;
+  padding: 0.7rem 1rem;
+  margin-top: 0.25rem;
+  border: 1px solid var(--accent);
+  border-radius: 10px;
+  background: transparent;
+  color: var(--accent);
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.detect-btn:hover {
+  background: rgba(45, 106, 79, 0.08);
 }
